@@ -1,0 +1,1391 @@
+{
+ "examId": 3,
+ "title": "ĐỀ 03  |  BÀI 9–10",
+ "group": "A",
+ "lesson": "Bài 9–10 MUSAN",
+ "groups": [
+  {
+   "id": 1,
+   "roman": "I",
+   "instruction": "Nghe câu và đánh dấu ✓ đúng / ✗ sai với hình minh họa.",
+   "from": 1,
+   "to": 5
+  },
+  {
+   "id": 6,
+   "roman": "II",
+   "instruction": "Nghe câu, chọn hình A/B/C.",
+   "from": 6,
+   "to": 10
+  },
+  {
+   "id": 11,
+   "roman": "III",
+   "instruction": "Nghe câu và ghép với một hình A–E. Mỗi hình dùng một lần.",
+   "from": 11,
+   "to": 15
+  },
+  {
+   "id": 16,
+   "roman": "IV",
+   "instruction": "Nghe hội thoại, chọn đáp án A/B/C. Các phương án được in kèm Pinyin.",
+   "from": 16,
+   "to": 20
+  },
+  {
+   "id": 21,
+   "roman": "I",
+   "instruction": "Nhìn hình, đọc câu và xác định ✓ đúng / ✗ sai.",
+   "from": 21,
+   "to": 25
+  },
+  {
+   "id": 26,
+   "roman": "II",
+   "instruction": "Đọc câu và chọn hình A/B/C.",
+   "from": 26,
+   "to": 30
+  },
+  {
+   "id": 31,
+   "roman": "III",
+   "instruction": "Đọc câu hỏi, nối với lời đáp trong bảng A–E.",
+   "from": 31,
+   "to": 35
+  },
+  {
+   "id": 36,
+   "roman": "IV",
+   "instruction": "Chọn một từ trong ngân hàng A–F để điền vào câu.",
+   "from": 36,
+   "to": 40
+  }
+ ],
+ "questions": [
+  {
+   "examId": 3,
+   "questionNumber": 1,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [
+    "img08"
+   ],
+   "choices": [
+    {
+     "label": "T",
+     "text": "Đúng"
+    },
+    {
+     "label": "F",
+     "text": "Sai"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 1,
+   "questionType": "listen_tf_image"
+  },
+  {
+   "examId": 3,
+   "questionNumber": 2,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [
+    "img33"
+   ],
+   "choices": [
+    {
+     "label": "T",
+     "text": "Đúng"
+    },
+    {
+     "label": "F",
+     "text": "Sai"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 1,
+   "questionType": "listen_tf_image"
+  },
+  {
+   "examId": 3,
+   "questionNumber": 3,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [
+    "img29"
+   ],
+   "choices": [
+    {
+     "label": "T",
+     "text": "Đúng"
+    },
+    {
+     "label": "F",
+     "text": "Sai"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 1,
+   "questionType": "listen_tf_image"
+  },
+  {
+   "examId": 3,
+   "questionNumber": 4,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [
+    "img06"
+   ],
+   "choices": [
+    {
+     "label": "T",
+     "text": "Đúng"
+    },
+    {
+     "label": "F",
+     "text": "Sai"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 1,
+   "questionType": "listen_tf_image"
+  },
+  {
+   "examId": 3,
+   "questionNumber": 5,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [
+    "img19"
+   ],
+   "choices": [
+    {
+     "label": "T",
+     "text": "Đúng"
+    },
+    {
+     "label": "F",
+     "text": "Sai"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 1,
+   "questionType": "listen_tf_image"
+  },
+  {
+   "examId": 3,
+   "questionNumber": 6,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "imageId": "img15"
+    },
+    {
+     "label": "B",
+     "imageId": "img14"
+    },
+    {
+     "label": "C",
+     "imageId": "img21"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 6,
+   "questionType": "listen_pick_image"
+  },
+  {
+   "examId": 3,
+   "questionNumber": 7,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "imageId": "img11"
+    },
+    {
+     "label": "B",
+     "imageId": "img31"
+    },
+    {
+     "label": "C",
+     "imageId": "img12"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 6,
+   "questionType": "listen_pick_image"
+  },
+  {
+   "examId": 3,
+   "questionNumber": 8,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "imageId": "img31"
+    },
+    {
+     "label": "B",
+     "imageId": "img13"
+    },
+    {
+     "label": "C",
+     "imageId": "img32"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 6,
+   "questionType": "listen_pick_image"
+  },
+  {
+   "examId": 3,
+   "questionNumber": 9,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "imageId": "img13"
+    },
+    {
+     "label": "B",
+     "imageId": "img34"
+    },
+    {
+     "label": "C",
+     "imageId": "img12"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 6,
+   "questionType": "listen_pick_image"
+  },
+  {
+   "examId": 3,
+   "questionNumber": 10,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "imageId": "img22"
+    },
+    {
+     "label": "B",
+     "imageId": "img19"
+    },
+    {
+     "label": "C",
+     "imageId": "img25"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 6,
+   "questionType": "listen_pick_image"
+  },
+  {
+   "examId": 3,
+   "questionNumber": 11,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "imageId": "img29"
+    },
+    {
+     "label": "B",
+     "imageId": "img03"
+    },
+    {
+     "label": "C",
+     "imageId": "img15"
+    },
+    {
+     "label": "D",
+     "imageId": "img06"
+    },
+    {
+     "label": "E",
+     "imageId": "img05"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 11,
+   "questionType": "match_image_bank",
+   "bankGroup": 11
+  },
+  {
+   "examId": 3,
+   "questionNumber": 12,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "imageId": "img29"
+    },
+    {
+     "label": "B",
+     "imageId": "img03"
+    },
+    {
+     "label": "C",
+     "imageId": "img15"
+    },
+    {
+     "label": "D",
+     "imageId": "img06"
+    },
+    {
+     "label": "E",
+     "imageId": "img05"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 11,
+   "questionType": "match_image_bank",
+   "bankGroup": 11
+  },
+  {
+   "examId": 3,
+   "questionNumber": 13,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "imageId": "img29"
+    },
+    {
+     "label": "B",
+     "imageId": "img03"
+    },
+    {
+     "label": "C",
+     "imageId": "img15"
+    },
+    {
+     "label": "D",
+     "imageId": "img06"
+    },
+    {
+     "label": "E",
+     "imageId": "img05"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 11,
+   "questionType": "match_image_bank",
+   "bankGroup": 11
+  },
+  {
+   "examId": 3,
+   "questionNumber": 14,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "imageId": "img29"
+    },
+    {
+     "label": "B",
+     "imageId": "img03"
+    },
+    {
+     "label": "C",
+     "imageId": "img15"
+    },
+    {
+     "label": "D",
+     "imageId": "img06"
+    },
+    {
+     "label": "E",
+     "imageId": "img05"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 11,
+   "questionType": "match_image_bank",
+   "bankGroup": 11
+  },
+  {
+   "examId": 3,
+   "questionNumber": 15,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "imageId": "img29"
+    },
+    {
+     "label": "B",
+     "imageId": "img03"
+    },
+    {
+     "label": "C",
+     "imageId": "img15"
+    },
+    {
+     "label": "D",
+     "imageId": "img06"
+    },
+    {
+     "label": "E",
+     "imageId": "img05"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 11,
+   "questionType": "match_image_bank",
+   "bankGroup": 11
+  },
+  {
+   "examId": 3,
+   "questionNumber": 16,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "hanzi": "咖啡",
+     "pinyin": "kāfēi"
+    },
+    {
+     "label": "B",
+     "hanzi": "茶",
+     "pinyin": "chá"
+    },
+    {
+     "label": "C",
+     "hanzi": "水",
+     "pinyin": "shuǐ"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 16,
+   "questionType": "listen_dialog_choice"
+  },
+  {
+   "examId": 3,
+   "questionNumber": 17,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "hanzi": "太贵",
+     "pinyin": "tài guì"
+    },
+    {
+     "label": "B",
+     "hanzi": "太远",
+     "pinyin": "tài yuǎn"
+    },
+    {
+     "label": "C",
+     "hanzi": "太小",
+     "pinyin": "tài xiǎo"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 16,
+   "questionType": "listen_dialog_choice"
+  },
+  {
+   "examId": 3,
+   "questionNumber": 18,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "hanzi": "看电影",
+     "pinyin": "kàn diànyǐng"
+    },
+    {
+     "label": "B",
+     "hanzi": "去工作",
+     "pinyin": "qù gōngzuò"
+    },
+    {
+     "label": "C",
+     "hanzi": "去公园",
+     "pinyin": "qù gōngyuán"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 16,
+   "questionType": "listen_dialog_choice"
+  },
+  {
+   "examId": 3,
+   "questionNumber": 19,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "hanzi": "猫",
+     "pinyin": "māo"
+    },
+    {
+     "label": "B",
+     "hanzi": "鱼",
+     "pinyin": "yú"
+    },
+    {
+     "label": "C",
+     "hanzi": "狗",
+     "pinyin": "gǒu"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 16,
+   "questionType": "listen_dialog_choice"
+  },
+  {
+   "examId": 3,
+   "questionNumber": 20,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "hanzi": "电脑",
+     "pinyin": "diànnǎo"
+    },
+    {
+     "label": "B",
+     "hanzi": "手机",
+     "pinyin": "shǒu jī"
+    },
+    {
+     "label": "C",
+     "hanzi": "书",
+     "pinyin": "shū"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 16,
+   "questionType": "listen_dialog_choice"
+  },
+  {
+   "examId": 3,
+   "questionNumber": 21,
+   "section": "reading",
+   "hanzi": "我的妹妹喜欢小猫。",
+   "pinyin": "wǒ de mèimei xǐhuan xiǎo māo.",
+   "imageIds": [
+    "img01"
+   ],
+   "choices": [
+    {
+     "label": "T",
+     "text": "Đúng"
+    },
+    {
+     "label": "F",
+     "text": "Sai"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 21,
+   "questionType": "read_tf_image"
+  },
+  {
+   "examId": 3,
+   "questionNumber": 22,
+   "section": "reading",
+   "hanzi": "这是我家的照片。",
+   "pinyin": "zhè shì wǒ jiā de zhàopiàn.",
+   "imageIds": [
+    "img16"
+   ],
+   "choices": [
+    {
+     "label": "T",
+     "text": "Đúng"
+    },
+    {
+     "label": "F",
+     "text": "Sai"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 21,
+   "questionType": "read_tf_image"
+  },
+  {
+   "examId": 3,
+   "questionNumber": 23,
+   "section": "reading",
+   "hanzi": "我弟弟想去买电脑。",
+   "pinyin": "wǒ dìdi xiǎng qù mǎi diànnǎo.",
+   "imageIds": [
+    "img16"
+   ],
+   "choices": [
+    {
+     "label": "T",
+     "text": "Đúng"
+    },
+    {
+     "label": "F",
+     "text": "Sai"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 21,
+   "questionType": "read_tf_image"
+  },
+  {
+   "examId": 3,
+   "questionNumber": 24,
+   "section": "reading",
+   "hanzi": "她喜欢坐公交车去工作。",
+   "pinyin": "tā xǐhuan zuò gōngjiāochē qù gōngzuò.",
+   "imageIds": [
+    "img27"
+   ],
+   "choices": [
+    {
+     "label": "T",
+     "text": "Đúng"
+    },
+    {
+     "label": "F",
+     "text": "Sai"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 21,
+   "questionType": "read_tf_image"
+  },
+  {
+   "examId": 3,
+   "questionNumber": 25,
+   "section": "reading",
+   "hanzi": "弟弟在学校学习。",
+   "pinyin": "dìdi zài xuéxiào xué xí.",
+   "imageIds": [
+    "img11"
+   ],
+   "choices": [
+    {
+     "label": "T",
+     "text": "Đúng"
+    },
+    {
+     "label": "F",
+     "text": "Sai"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 21,
+   "questionType": "read_tf_image"
+  },
+  {
+   "examId": 3,
+   "questionNumber": 26,
+   "section": "reading",
+   "hanzi": "这是我的电脑。",
+   "pinyin": "zhè shì wǒ de diànnǎo.",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "imageId": "img16"
+    },
+    {
+     "label": "B",
+     "imageId": "img21"
+    },
+    {
+     "label": "C",
+     "imageId": "img14"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 26,
+   "questionType": "read_pick_image"
+  },
+  {
+   "examId": 3,
+   "questionNumber": 27,
+   "section": "reading",
+   "hanzi": "我想坐公交车。",
+   "pinyin": "wǒ xiǎng zuò gōngjiāochē.",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "imageId": "img19"
+    },
+    {
+     "label": "B",
+     "imageId": "img05"
+    },
+    {
+     "label": "C",
+     "imageId": "img24"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 26,
+   "questionType": "read_pick_image"
+  },
+  {
+   "examId": 3,
+   "questionNumber": 28,
+   "section": "reading",
+   "hanzi": "我的朋友想坐飞机。",
+   "pinyin": "wǒ de péngyou xiǎng zuò fēijī.",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "imageId": "img27"
+    },
+    {
+     "label": "B",
+     "imageId": "img24"
+    },
+    {
+     "label": "C",
+     "imageId": "img05"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 26,
+   "questionType": "read_pick_image"
+  },
+  {
+   "examId": 3,
+   "questionNumber": 29,
+   "section": "reading",
+   "hanzi": "我的朋友喜欢喝茶。",
+   "pinyin": "wǒ de péngyou xǐhuan hē chá.",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "imageId": "img09"
+    },
+    {
+     "label": "B",
+     "imageId": "img10"
+    },
+    {
+     "label": "C",
+     "imageId": "img08"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 26,
+   "questionType": "read_pick_image"
+  },
+  {
+   "examId": 3,
+   "questionNumber": 30,
+   "section": "reading",
+   "hanzi": "我妈妈喜欢看书。",
+   "pinyin": "wǒ māma xǐhuan kàn shū.",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "imageId": "img20"
+    },
+    {
+     "label": "B",
+     "imageId": "img14"
+    },
+    {
+     "label": "C",
+     "imageId": "img21"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 26,
+   "questionType": "read_pick_image"
+  },
+  {
+   "examId": 3,
+   "questionNumber": 31,
+   "section": "reading",
+   "hanzi": "今天晚上你有空儿吗？",
+   "pinyin": "jīntiān wǎnshang nǐ yǒu kòngr ma?",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "hanzi": "喜欢，我每天都听。",
+     "pinyin": "xǐhuan, wǒ měitiān dōu tīng."
+    },
+    {
+     "label": "B",
+     "hanzi": "不是，她是我妹妹。",
+     "pinyin": "bú shì, tā shì wǒ mèimei."
+    },
+    {
+     "label": "C",
+     "hanzi": "我想买电脑。",
+     "pinyin": "wǒ xiǎng mǎi diànnǎo."
+    },
+    {
+     "label": "D",
+     "hanzi": "对不起，我没空。",
+     "pinyin": "duì bù qǐ, wǒ méi kōng."
+    },
+    {
+     "label": "E",
+     "hanzi": "有两只。",
+     "pinyin": "yǒu liǎng zhī."
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 31,
+   "questionType": "read_match_answer",
+   "bankGroup": 31
+  },
+  {
+   "examId": 3,
+   "questionNumber": 32,
+   "section": "reading",
+   "hanzi": "你喜欢听音乐吗？",
+   "pinyin": "nǐ xǐhuan tīng yīnyuè ma?",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "hanzi": "喜欢，我每天都听。",
+     "pinyin": "xǐhuan, wǒ měitiān dōu tīng."
+    },
+    {
+     "label": "B",
+     "hanzi": "不是，她是我妹妹。",
+     "pinyin": "bú shì, tā shì wǒ mèimei."
+    },
+    {
+     "label": "C",
+     "hanzi": "我想买电脑。",
+     "pinyin": "wǒ xiǎng mǎi diànnǎo."
+    },
+    {
+     "label": "D",
+     "hanzi": "对不起，我没空。",
+     "pinyin": "duì bù qǐ, wǒ méi kōng."
+    },
+    {
+     "label": "E",
+     "hanzi": "有两只。",
+     "pinyin": "yǒu liǎng zhī."
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 31,
+   "questionType": "read_match_answer",
+   "bankGroup": 31
+  },
+  {
+   "examId": 3,
+   "questionNumber": 33,
+   "section": "reading",
+   "hanzi": "你家有几只猫？",
+   "pinyin": "nǐ jiā yǒu jǐ zhī māo?",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "hanzi": "喜欢，我每天都听。",
+     "pinyin": "xǐhuan, wǒ měitiān dōu tīng."
+    },
+    {
+     "label": "B",
+     "hanzi": "不是，她是我妹妹。",
+     "pinyin": "bú shì, tā shì wǒ mèimei."
+    },
+    {
+     "label": "C",
+     "hanzi": "我想买电脑。",
+     "pinyin": "wǒ xiǎng mǎi diànnǎo."
+    },
+    {
+     "label": "D",
+     "hanzi": "对不起，我没空。",
+     "pinyin": "duì bù qǐ, wǒ méi kōng."
+    },
+    {
+     "label": "E",
+     "hanzi": "有两只。",
+     "pinyin": "yǒu liǎng zhī."
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 31,
+   "questionType": "read_match_answer",
+   "bankGroup": 31
+  },
+  {
+   "examId": 3,
+   "questionNumber": 34,
+   "section": "reading",
+   "hanzi": "她是你的姐姐吗？",
+   "pinyin": "tā shì nǐ de jiějie ma?",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "hanzi": "喜欢，我每天都听。",
+     "pinyin": "xǐhuan, wǒ měitiān dōu tīng."
+    },
+    {
+     "label": "B",
+     "hanzi": "不是，她是我妹妹。",
+     "pinyin": "bú shì, tā shì wǒ mèimei."
+    },
+    {
+     "label": "C",
+     "hanzi": "我想买电脑。",
+     "pinyin": "wǒ xiǎng mǎi diànnǎo."
+    },
+    {
+     "label": "D",
+     "hanzi": "对不起，我没空。",
+     "pinyin": "duì bù qǐ, wǒ méi kōng."
+    },
+    {
+     "label": "E",
+     "hanzi": "有两只。",
+     "pinyin": "yǒu liǎng zhī."
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 31,
+   "questionType": "read_match_answer",
+   "bankGroup": 31
+  },
+  {
+   "examId": 3,
+   "questionNumber": 35,
+   "section": "reading",
+   "hanzi": "你想买什么东西？",
+   "pinyin": "nǐ xiǎng mǎi shénme dōngxi?",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "hanzi": "喜欢，我每天都听。",
+     "pinyin": "xǐhuan, wǒ měitiān dōu tīng."
+    },
+    {
+     "label": "B",
+     "hanzi": "不是，她是我妹妹。",
+     "pinyin": "bú shì, tā shì wǒ mèimei."
+    },
+    {
+     "label": "C",
+     "hanzi": "我想买电脑。",
+     "pinyin": "wǒ xiǎng mǎi diànnǎo."
+    },
+    {
+     "label": "D",
+     "hanzi": "对不起，我没空。",
+     "pinyin": "duì bù qǐ, wǒ méi kōng."
+    },
+    {
+     "label": "E",
+     "hanzi": "有两只。",
+     "pinyin": "yǒu liǎng zhī."
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 31,
+   "questionType": "read_match_answer",
+   "bankGroup": 31
+  },
+  {
+   "examId": 3,
+   "questionNumber": 36,
+   "section": "reading",
+   "hanzi": "妈妈在医院做______。",
+   "pinyin": "māma zài yīyuàn zuò _ _ _ _ _ _.",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "hanzi": "医生",
+     "pinyin": "yīshēng"
+    },
+    {
+     "label": "B",
+     "hanzi": "商店",
+     "pinyin": "shāngdiàn"
+    },
+    {
+     "label": "C",
+     "hanzi": "写",
+     "pinyin": "xiě"
+    },
+    {
+     "label": "D",
+     "hanzi": "知道",
+     "pinyin": "zhīdào"
+    },
+    {
+     "label": "E",
+     "hanzi": "电影院",
+     "pinyin": "diànyǐngyuàn"
+    },
+    {
+     "label": "F",
+     "hanzi": "只",
+     "pinyin": "zhī"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 36,
+   "questionType": "read_fill_bank",
+   "bankGroup": 36
+  },
+  {
+   "examId": 3,
+   "questionNumber": 37,
+   "section": "reading",
+   "hanzi": "今天晚上我们去______看电影。",
+   "pinyin": "jīntiān wǎnshang wǒ men qù _ _ _ _ _ _ kàn diànyǐng.",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "hanzi": "医生",
+     "pinyin": "yīshēng"
+    },
+    {
+     "label": "B",
+     "hanzi": "商店",
+     "pinyin": "shāngdiàn"
+    },
+    {
+     "label": "C",
+     "hanzi": "写",
+     "pinyin": "xiě"
+    },
+    {
+     "label": "D",
+     "hanzi": "知道",
+     "pinyin": "zhīdào"
+    },
+    {
+     "label": "E",
+     "hanzi": "电影院",
+     "pinyin": "diànyǐngyuàn"
+    },
+    {
+     "label": "F",
+     "hanzi": "只",
+     "pinyin": "zhī"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 36,
+   "questionType": "read_fill_bank",
+   "bankGroup": 36
+  },
+  {
+   "examId": 3,
+   "questionNumber": 38,
+   "section": "reading",
+   "hanzi": "我家有一______很可爱的小狗。",
+   "pinyin": "wǒ jiā yǒu yī _ _ _ _ _ _ hěn kěài de xiǎo gǒu.",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "hanzi": "医生",
+     "pinyin": "yīshēng"
+    },
+    {
+     "label": "B",
+     "hanzi": "商店",
+     "pinyin": "shāngdiàn"
+    },
+    {
+     "label": "C",
+     "hanzi": "写",
+     "pinyin": "xiě"
+    },
+    {
+     "label": "D",
+     "hanzi": "知道",
+     "pinyin": "zhīdào"
+    },
+    {
+     "label": "E",
+     "hanzi": "电影院",
+     "pinyin": "diànyǐngyuàn"
+    },
+    {
+     "label": "F",
+     "hanzi": "只",
+     "pinyin": "zhī"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 36,
+   "questionType": "read_fill_bank",
+   "bankGroup": 36
+  },
+  {
+   "examId": 3,
+   "questionNumber": 39,
+   "section": "reading",
+   "hanzi": "我想去______买东西。",
+   "pinyin": "wǒ xiǎng qù _ _ _ _ _ _ mǎi dōngxi.",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "hanzi": "医生",
+     "pinyin": "yīshēng"
+    },
+    {
+     "label": "B",
+     "hanzi": "商店",
+     "pinyin": "shāngdiàn"
+    },
+    {
+     "label": "C",
+     "hanzi": "写",
+     "pinyin": "xiě"
+    },
+    {
+     "label": "D",
+     "hanzi": "知道",
+     "pinyin": "zhīdào"
+    },
+    {
+     "label": "E",
+     "hanzi": "电影院",
+     "pinyin": "diànyǐngyuàn"
+    },
+    {
+     "label": "F",
+     "hanzi": "只",
+     "pinyin": "zhī"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 36,
+   "questionType": "read_fill_bank",
+   "bankGroup": 36
+  },
+  {
+   "examId": 3,
+   "questionNumber": 40,
+   "section": "reading",
+   "hanzi": "她喜欢在家______汉字。",
+   "pinyin": "tā xǐhuan zài jiā _ _ _ _ _ _ Hànzì.",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "hanzi": "医生",
+     "pinyin": "yīshēng"
+    },
+    {
+     "label": "B",
+     "hanzi": "商店",
+     "pinyin": "shāngdiàn"
+    },
+    {
+     "label": "C",
+     "hanzi": "写",
+     "pinyin": "xiě"
+    },
+    {
+     "label": "D",
+     "hanzi": "知道",
+     "pinyin": "zhīdào"
+    },
+    {
+     "label": "E",
+     "hanzi": "电影院",
+     "pinyin": "diànyǐngyuàn"
+    },
+    {
+     "label": "F",
+     "hanzi": "只",
+     "pinyin": "zhī"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 03  |  BÀI 9–10",
+   "audio": null,
+   "group": 36,
+   "questionType": "read_fill_bank",
+   "bankGroup": 36
+  }
+ ]
+}

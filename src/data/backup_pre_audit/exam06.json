@@ -1,0 +1,1391 @@
+{
+ "examId": 6,
+ "title": "ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+ "group": "B",
+ "lesson": "Tổng ôn Bài 6–10 MUSAN",
+ "groups": [
+  {
+   "id": 1,
+   "roman": "I",
+   "instruction": "Nghe câu và đánh dấu ✓ đúng / ✗ sai với hình minh họa.",
+   "from": 1,
+   "to": 5
+  },
+  {
+   "id": 6,
+   "roman": "II",
+   "instruction": "Nghe câu, chọn hình A/B/C.",
+   "from": 6,
+   "to": 10
+  },
+  {
+   "id": 11,
+   "roman": "III",
+   "instruction": "Nghe câu và ghép với một hình A–E. Mỗi hình dùng một lần.",
+   "from": 11,
+   "to": 15
+  },
+  {
+   "id": 16,
+   "roman": "IV",
+   "instruction": "Nghe hội thoại, chọn đáp án A/B/C. Các phương án được in kèm Pinyin.",
+   "from": 16,
+   "to": 20
+  },
+  {
+   "id": 21,
+   "roman": "I",
+   "instruction": "Nhìn hình, đọc câu và xác định ✓ đúng / ✗ sai.",
+   "from": 21,
+   "to": 25
+  },
+  {
+   "id": 26,
+   "roman": "II",
+   "instruction": "Đọc câu và chọn hình A/B/C.",
+   "from": 26,
+   "to": 30
+  },
+  {
+   "id": 31,
+   "roman": "III",
+   "instruction": "Đọc câu hỏi, nối với lời đáp trong bảng A–E.",
+   "from": 31,
+   "to": 35
+  },
+  {
+   "id": 36,
+   "roman": "IV",
+   "instruction": "Chọn một từ trong ngân hàng A–F để điền vào câu.",
+   "from": 36,
+   "to": 40
+  }
+ ],
+ "questions": [
+  {
+   "examId": 6,
+   "questionNumber": 1,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [
+    "img17"
+   ],
+   "choices": [
+    {
+     "label": "T",
+     "text": "Đúng"
+    },
+    {
+     "label": "F",
+     "text": "Sai"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 1,
+   "questionType": "listen_tf_image"
+  },
+  {
+   "examId": 6,
+   "questionNumber": 2,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [
+    "img20"
+   ],
+   "choices": [
+    {
+     "label": "T",
+     "text": "Đúng"
+    },
+    {
+     "label": "F",
+     "text": "Sai"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 1,
+   "questionType": "listen_tf_image"
+  },
+  {
+   "examId": 6,
+   "questionNumber": 3,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [
+    "img32"
+   ],
+   "choices": [
+    {
+     "label": "T",
+     "text": "Đúng"
+    },
+    {
+     "label": "F",
+     "text": "Sai"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 1,
+   "questionType": "listen_tf_image"
+  },
+  {
+   "examId": 6,
+   "questionNumber": 4,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [
+    "img22"
+   ],
+   "choices": [
+    {
+     "label": "T",
+     "text": "Đúng"
+    },
+    {
+     "label": "F",
+     "text": "Sai"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 1,
+   "questionType": "listen_tf_image"
+  },
+  {
+   "examId": 6,
+   "questionNumber": 5,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [
+    "img11"
+   ],
+   "choices": [
+    {
+     "label": "T",
+     "text": "Đúng"
+    },
+    {
+     "label": "F",
+     "text": "Sai"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 1,
+   "questionType": "listen_tf_image"
+  },
+  {
+   "examId": 6,
+   "questionNumber": 6,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "imageId": "img18"
+    },
+    {
+     "label": "B",
+     "imageId": "img21"
+    },
+    {
+     "label": "C",
+     "imageId": "img11"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 6,
+   "questionType": "listen_pick_image"
+  },
+  {
+   "examId": 6,
+   "questionNumber": 7,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "imageId": "img08"
+    },
+    {
+     "label": "B",
+     "imageId": "img29"
+    },
+    {
+     "label": "C",
+     "imageId": "img28"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 6,
+   "questionType": "listen_pick_image"
+  },
+  {
+   "examId": 6,
+   "questionNumber": 8,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "imageId": "img15"
+    },
+    {
+     "label": "B",
+     "imageId": "img21"
+    },
+    {
+     "label": "C",
+     "imageId": "img16"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 6,
+   "questionType": "listen_pick_image"
+  },
+  {
+   "examId": 6,
+   "questionNumber": 9,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "imageId": "img19"
+    },
+    {
+     "label": "B",
+     "imageId": "img05"
+    },
+    {
+     "label": "C",
+     "imageId": "img24"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 6,
+   "questionType": "listen_pick_image"
+  },
+  {
+   "examId": 6,
+   "questionNumber": 10,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "imageId": "img13"
+    },
+    {
+     "label": "B",
+     "imageId": "img12"
+    },
+    {
+     "label": "C",
+     "imageId": "img11"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 6,
+   "questionType": "listen_pick_image"
+  },
+  {
+   "examId": 6,
+   "questionNumber": 11,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "imageId": "img37"
+    },
+    {
+     "label": "B",
+     "imageId": "img03"
+    },
+    {
+     "label": "C",
+     "imageId": "img32"
+    },
+    {
+     "label": "D",
+     "imageId": "img08"
+    },
+    {
+     "label": "E",
+     "imageId": "img15"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 11,
+   "questionType": "match_image_bank",
+   "bankGroup": 11
+  },
+  {
+   "examId": 6,
+   "questionNumber": 12,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "imageId": "img37"
+    },
+    {
+     "label": "B",
+     "imageId": "img03"
+    },
+    {
+     "label": "C",
+     "imageId": "img32"
+    },
+    {
+     "label": "D",
+     "imageId": "img08"
+    },
+    {
+     "label": "E",
+     "imageId": "img15"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 11,
+   "questionType": "match_image_bank",
+   "bankGroup": 11
+  },
+  {
+   "examId": 6,
+   "questionNumber": 13,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "imageId": "img37"
+    },
+    {
+     "label": "B",
+     "imageId": "img03"
+    },
+    {
+     "label": "C",
+     "imageId": "img32"
+    },
+    {
+     "label": "D",
+     "imageId": "img08"
+    },
+    {
+     "label": "E",
+     "imageId": "img15"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 11,
+   "questionType": "match_image_bank",
+   "bankGroup": 11
+  },
+  {
+   "examId": 6,
+   "questionNumber": 14,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "imageId": "img37"
+    },
+    {
+     "label": "B",
+     "imageId": "img03"
+    },
+    {
+     "label": "C",
+     "imageId": "img32"
+    },
+    {
+     "label": "D",
+     "imageId": "img08"
+    },
+    {
+     "label": "E",
+     "imageId": "img15"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 11,
+   "questionType": "match_image_bank",
+   "bankGroup": 11
+  },
+  {
+   "examId": 6,
+   "questionNumber": 15,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "imageId": "img37"
+    },
+    {
+     "label": "B",
+     "imageId": "img03"
+    },
+    {
+     "label": "C",
+     "imageId": "img32"
+    },
+    {
+     "label": "D",
+     "imageId": "img08"
+    },
+    {
+     "label": "E",
+     "imageId": "img15"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 11,
+   "questionType": "match_image_bank",
+   "bankGroup": 11
+  },
+  {
+   "examId": 6,
+   "questionNumber": 16,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "hanzi": "学习汉语",
+     "pinyin": "xué xí Hànyǔ"
+    },
+    {
+     "label": "B",
+     "hanzi": "去买菜",
+     "pinyin": "qù mǎi cài"
+    },
+    {
+     "label": "C",
+     "hanzi": "去饭店",
+     "pinyin": "qù fàndiàn"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 16,
+   "questionType": "listen_dialog_choice"
+  },
+  {
+   "examId": 6,
+   "questionNumber": 17,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "hanzi": "银行旁边",
+     "pinyin": "yínháng pángbiān"
+    },
+    {
+     "label": "B",
+     "hanzi": "超市对面",
+     "pinyin": "chāoshì duìmiàn"
+    },
+    {
+     "label": "C",
+     "hanzi": "学校里",
+     "pinyin": "xuéxiào lǐ"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 16,
+   "questionType": "listen_dialog_choice"
+  },
+  {
+   "examId": 6,
+   "questionNumber": 18,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "hanzi": "今天晚上",
+     "pinyin": "jīntiān wǎnshang"
+    },
+    {
+     "label": "B",
+     "hanzi": "明天上午",
+     "pinyin": "míngtiān shàngwǔ"
+    },
+    {
+     "label": "C",
+     "hanzi": "明天下午",
+     "pinyin": "míngtiān xiàwǔ"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 16,
+   "questionType": "listen_dialog_choice"
+  },
+  {
+   "examId": 6,
+   "questionNumber": 19,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "hanzi": "学校",
+     "pinyin": "xuéxiào"
+    },
+    {
+     "label": "B",
+     "hanzi": "饭店",
+     "pinyin": "fàndiàn"
+    },
+    {
+     "label": "C",
+     "hanzi": "银行",
+     "pinyin": "yínháng"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 16,
+   "questionType": "listen_dialog_choice"
+  },
+  {
+   "examId": 6,
+   "questionNumber": 20,
+   "section": "listening",
+   "hanzi": "",
+   "pinyin": "",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "hanzi": "公园",
+     "pinyin": "gōngyuán"
+    },
+    {
+     "label": "B",
+     "hanzi": "电影院",
+     "pinyin": "diànyǐngyuàn"
+    },
+    {
+     "label": "C",
+     "hanzi": "书店",
+     "pinyin": "shūdiàn"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 16,
+   "questionType": "listen_dialog_choice"
+  },
+  {
+   "examId": 6,
+   "questionNumber": 21,
+   "section": "reading",
+   "hanzi": "他坐汽车去学校。",
+   "pinyin": "tā zuò qì chē qù xuéxiào.",
+   "imageIds": [
+    "img25"
+   ],
+   "choices": [
+    {
+     "label": "T",
+     "text": "Đúng"
+    },
+    {
+     "label": "F",
+     "text": "Sai"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 21,
+   "questionType": "read_tf_image"
+  },
+  {
+   "examId": 6,
+   "questionNumber": 22,
+   "section": "reading",
+   "hanzi": "他想坐出租车。",
+   "pinyin": "tā xiǎng zuò chūzūchē.",
+   "imageIds": [
+    "img24"
+   ],
+   "choices": [
+    {
+     "label": "T",
+     "text": "Đúng"
+    },
+    {
+     "label": "F",
+     "text": "Sai"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 21,
+   "questionType": "read_tf_image"
+  },
+  {
+   "examId": 6,
+   "questionNumber": 23,
+   "section": "reading",
+   "hanzi": "我妈妈喜欢看书。",
+   "pinyin": "wǒ māma xǐhuan kàn shū.",
+   "imageIds": [
+    "img14"
+   ],
+   "choices": [
+    {
+     "label": "T",
+     "text": "Đúng"
+    },
+    {
+     "label": "F",
+     "text": "Sai"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 21,
+   "questionType": "read_tf_image"
+  },
+  {
+   "examId": 6,
+   "questionNumber": 24,
+   "section": "reading",
+   "hanzi": "我们一起去电影院。",
+   "pinyin": "wǒ men yìqǐ qù diànyǐngyuàn.",
+   "imageIds": [
+    "img02"
+   ],
+   "choices": [
+    {
+     "label": "T",
+     "text": "Đúng"
+    },
+    {
+     "label": "F",
+     "text": "Sai"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 21,
+   "questionType": "read_tf_image"
+  },
+  {
+   "examId": 6,
+   "questionNumber": 25,
+   "section": "reading",
+   "hanzi": "我的朋友喜欢喝茶。",
+   "pinyin": "wǒ de péngyou xǐhuan hē chá.",
+   "imageIds": [
+    "img10"
+   ],
+   "choices": [
+    {
+     "label": "T",
+     "text": "Đúng"
+    },
+    {
+     "label": "F",
+     "text": "Sai"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 21,
+   "questionType": "read_tf_image"
+  },
+  {
+   "examId": 6,
+   "questionNumber": 26,
+   "section": "reading",
+   "hanzi": "这个饭店离我家很近。",
+   "pinyin": "zhè gè fàndiàn lí wǒ jiā hěn jìn.",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "imageId": "img34"
+    },
+    {
+     "label": "B",
+     "imageId": "img12"
+    },
+    {
+     "label": "C",
+     "imageId": "img31"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 26,
+   "questionType": "read_pick_image"
+  },
+  {
+   "examId": 6,
+   "questionNumber": 27,
+   "section": "reading",
+   "hanzi": "我们坐地铁去。",
+   "pinyin": "wǒ men zuò dìtiě qù.",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "imageId": "img24"
+    },
+    {
+     "label": "B",
+     "imageId": "img05"
+    },
+    {
+     "label": "C",
+     "imageId": "img19"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 26,
+   "questionType": "read_pick_image"
+  },
+  {
+   "examId": 6,
+   "questionNumber": 28,
+   "section": "reading",
+   "hanzi": "我在公园看见一只狗。",
+   "pinyin": "wǒ zài gōngyuán kànjiàn yì zhī gǒu.",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "imageId": "img06"
+    },
+    {
+     "label": "B",
+     "imageId": "img07"
+    },
+    {
+     "label": "C",
+     "imageId": "img01"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 26,
+   "questionType": "read_pick_image"
+  },
+  {
+   "examId": 6,
+   "questionNumber": 29,
+   "section": "reading",
+   "hanzi": "我现在要打电话。",
+   "pinyin": "wǒ xiànzài yào dǎ diànhuà.",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "imageId": "img16"
+    },
+    {
+     "label": "B",
+     "imageId": "img14"
+    },
+    {
+     "label": "C",
+     "imageId": "img03"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 26,
+   "questionType": "read_pick_image"
+  },
+  {
+   "examId": 6,
+   "questionNumber": 30,
+   "section": "reading",
+   "hanzi": "周末我们去公园玩。",
+   "pinyin": "zhōumò wǒ men qù gōngyuán wán.",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "imageId": "img12"
+    },
+    {
+     "label": "B",
+     "imageId": "img11"
+    },
+    {
+     "label": "C",
+     "imageId": "img31"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 26,
+   "questionType": "read_pick_image"
+  },
+  {
+   "examId": 6,
+   "questionNumber": 31,
+   "section": "reading",
+   "hanzi": "你想坐什么车？",
+   "pinyin": "nǐ xiǎng zuò shénme chē?",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "hanzi": "我走路去上班。",
+     "pinyin": "wǒ zǒulù qù shàng bān."
+    },
+    {
+     "label": "B",
+     "hanzi": "我在苹果公司工作。",
+     "pinyin": "wǒ zài píngguǒ gōngsī gōngzuò."
+    },
+    {
+     "label": "C",
+     "hanzi": "喜欢，我很喜欢喝茶。",
+     "pinyin": "xǐhuan, wǒ hěn xǐhuan hē chá."
+    },
+    {
+     "label": "D",
+     "hanzi": "有，在书店对面。",
+     "pinyin": "yǒu, zài shūdiàn duìmiàn."
+    },
+    {
+     "label": "E",
+     "hanzi": "我想坐公共汽车。",
+     "pinyin": "wǒ xiǎng zuò gōnggòng qìchē."
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 31,
+   "questionType": "read_match_answer",
+   "bankGroup": 31
+  },
+  {
+   "examId": 6,
+   "questionNumber": 32,
+   "section": "reading",
+   "hanzi": "你喜欢喝茶吗？",
+   "pinyin": "nǐ xǐhuan hē chá ma?",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "hanzi": "我走路去上班。",
+     "pinyin": "wǒ zǒulù qù shàng bān."
+    },
+    {
+     "label": "B",
+     "hanzi": "我在苹果公司工作。",
+     "pinyin": "wǒ zài píngguǒ gōngsī gōngzuò."
+    },
+    {
+     "label": "C",
+     "hanzi": "喜欢，我很喜欢喝茶。",
+     "pinyin": "xǐhuan, wǒ hěn xǐhuan hē chá."
+    },
+    {
+     "label": "D",
+     "hanzi": "有，在书店对面。",
+     "pinyin": "yǒu, zài shūdiàn duìmiàn."
+    },
+    {
+     "label": "E",
+     "hanzi": "我想坐公共汽车。",
+     "pinyin": "wǒ xiǎng zuò gōnggòng qìchē."
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 31,
+   "questionType": "read_match_answer",
+   "bankGroup": 31
+  },
+  {
+   "examId": 6,
+   "questionNumber": 33,
+   "section": "reading",
+   "hanzi": "你在什么公司工作？",
+   "pinyin": "nǐ zài shénme gōngsī gōngzuò?",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "hanzi": "我走路去上班。",
+     "pinyin": "wǒ zǒulù qù shàng bān."
+    },
+    {
+     "label": "B",
+     "hanzi": "我在苹果公司工作。",
+     "pinyin": "wǒ zài píngguǒ gōngsī gōngzuò."
+    },
+    {
+     "label": "C",
+     "hanzi": "喜欢，我很喜欢喝茶。",
+     "pinyin": "xǐhuan, wǒ hěn xǐhuan hē chá."
+    },
+    {
+     "label": "D",
+     "hanzi": "有，在书店对面。",
+     "pinyin": "yǒu, zài shūdiàn duìmiàn."
+    },
+    {
+     "label": "E",
+     "hanzi": "我想坐公共汽车。",
+     "pinyin": "wǒ xiǎng zuò gōnggòng qìchē."
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 31,
+   "questionType": "read_match_answer",
+   "bankGroup": 31
+  },
+  {
+   "examId": 6,
+   "questionNumber": 34,
+   "section": "reading",
+   "hanzi": "这里有中国饭店吗？",
+   "pinyin": "zhè lǐ yǒu Zhōngguó fàndiàn ma?",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "hanzi": "我走路去上班。",
+     "pinyin": "wǒ zǒulù qù shàng bān."
+    },
+    {
+     "label": "B",
+     "hanzi": "我在苹果公司工作。",
+     "pinyin": "wǒ zài píngguǒ gōngsī gōngzuò."
+    },
+    {
+     "label": "C",
+     "hanzi": "喜欢，我很喜欢喝茶。",
+     "pinyin": "xǐhuan, wǒ hěn xǐhuan hē chá."
+    },
+    {
+     "label": "D",
+     "hanzi": "有，在书店对面。",
+     "pinyin": "yǒu, zài shūdiàn duìmiàn."
+    },
+    {
+     "label": "E",
+     "hanzi": "我想坐公共汽车。",
+     "pinyin": "wǒ xiǎng zuò gōnggòng qìchē."
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 31,
+   "questionType": "read_match_answer",
+   "bankGroup": 31
+  },
+  {
+   "examId": 6,
+   "questionNumber": 35,
+   "section": "reading",
+   "hanzi": "你怎么去上班？",
+   "pinyin": "nǐ zěnme qù shàng bān?",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "hanzi": "我走路去上班。",
+     "pinyin": "wǒ zǒulù qù shàng bān."
+    },
+    {
+     "label": "B",
+     "hanzi": "我在苹果公司工作。",
+     "pinyin": "wǒ zài píngguǒ gōngsī gōngzuò."
+    },
+    {
+     "label": "C",
+     "hanzi": "喜欢，我很喜欢喝茶。",
+     "pinyin": "xǐhuan, wǒ hěn xǐhuan hē chá."
+    },
+    {
+     "label": "D",
+     "hanzi": "有，在书店对面。",
+     "pinyin": "yǒu, zài shūdiàn duìmiàn."
+    },
+    {
+     "label": "E",
+     "hanzi": "我想坐公共汽车。",
+     "pinyin": "wǒ xiǎng zuò gōnggòng qìchē."
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 31,
+   "questionType": "read_match_answer",
+   "bankGroup": 31
+  },
+  {
+   "examId": 6,
+   "questionNumber": 36,
+   "section": "reading",
+   "hanzi": "这家饭店的菜又好吃又______。",
+   "pinyin": "zhè jiā fàndiàn de cài yòu hǎochī yòu _ _ _ _ _ _.",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "hanzi": "所以",
+     "pinyin": "suǒyǐ"
+    },
+    {
+     "label": "B",
+     "hanzi": "电影",
+     "pinyin": "diànyǐng"
+    },
+    {
+     "label": "C",
+     "hanzi": "便宜",
+     "pinyin": "piányi"
+    },
+    {
+     "label": "D",
+     "hanzi": "汉语",
+     "pinyin": "Hànyǔ"
+    },
+    {
+     "label": "E",
+     "hanzi": "一直",
+     "pinyin": "yīzhí"
+    },
+    {
+     "label": "F",
+     "hanzi": "喜欢",
+     "pinyin": "xǐhuan"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 36,
+   "questionType": "read_fill_bank",
+   "bankGroup": 36
+  },
+  {
+   "examId": 6,
+   "questionNumber": 37,
+   "section": "reading",
+   "hanzi": "我很______喝中国茶。",
+   "pinyin": "wǒ hěn _ _ _ _ _ _ hē Zhōngguó chá.",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "hanzi": "所以",
+     "pinyin": "suǒyǐ"
+    },
+    {
+     "label": "B",
+     "hanzi": "电影",
+     "pinyin": "diànyǐng"
+    },
+    {
+     "label": "C",
+     "hanzi": "便宜",
+     "pinyin": "piányi"
+    },
+    {
+     "label": "D",
+     "hanzi": "汉语",
+     "pinyin": "Hànyǔ"
+    },
+    {
+     "label": "E",
+     "hanzi": "一直",
+     "pinyin": "yīzhí"
+    },
+    {
+     "label": "F",
+     "hanzi": "喜欢",
+     "pinyin": "xǐhuan"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 36,
+   "questionType": "read_fill_bank",
+   "bankGroup": 36
+  },
+  {
+   "examId": 6,
+   "questionNumber": 38,
+   "section": "reading",
+   "hanzi": "我们______走，五百米就到了。",
+   "pinyin": "wǒ men _ _ _ _ _ _ zǒu, wǔ bǎi mǐ jiù dào le.",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "hanzi": "所以",
+     "pinyin": "suǒyǐ"
+    },
+    {
+     "label": "B",
+     "hanzi": "电影",
+     "pinyin": "diànyǐng"
+    },
+    {
+     "label": "C",
+     "hanzi": "便宜",
+     "pinyin": "piányi"
+    },
+    {
+     "label": "D",
+     "hanzi": "汉语",
+     "pinyin": "Hànyǔ"
+    },
+    {
+     "label": "E",
+     "hanzi": "一直",
+     "pinyin": "yīzhí"
+    },
+    {
+     "label": "F",
+     "hanzi": "喜欢",
+     "pinyin": "xǐhuan"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 36,
+   "questionType": "read_fill_bank",
+   "bankGroup": 36
+  },
+  {
+   "examId": 6,
+   "questionNumber": 39,
+   "section": "reading",
+   "hanzi": "晚上我们一起去看______。",
+   "pinyin": "wǎnshang wǒ men yìqǐ qù kàn _ _ _ _ _ _.",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "hanzi": "所以",
+     "pinyin": "suǒyǐ"
+    },
+    {
+     "label": "B",
+     "hanzi": "电影",
+     "pinyin": "diànyǐng"
+    },
+    {
+     "label": "C",
+     "hanzi": "便宜",
+     "pinyin": "piányi"
+    },
+    {
+     "label": "D",
+     "hanzi": "汉语",
+     "pinyin": "Hànyǔ"
+    },
+    {
+     "label": "E",
+     "hanzi": "一直",
+     "pinyin": "yīzhí"
+    },
+    {
+     "label": "F",
+     "hanzi": "喜欢",
+     "pinyin": "xǐhuan"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 36,
+   "questionType": "read_fill_bank",
+   "bankGroup": 36
+  },
+  {
+   "examId": 6,
+   "questionNumber": 40,
+   "section": "reading",
+   "hanzi": "因为我很忙，______我不去。",
+   "pinyin": "yīnwèi wǒ hěn máng, _ _ _ _ _ _ wǒ bú qù.",
+   "imageIds": [],
+   "choices": [
+    {
+     "label": "A",
+     "hanzi": "所以",
+     "pinyin": "suǒyǐ"
+    },
+    {
+     "label": "B",
+     "hanzi": "电影",
+     "pinyin": "diànyǐng"
+    },
+    {
+     "label": "C",
+     "hanzi": "便宜",
+     "pinyin": "piányi"
+    },
+    {
+     "label": "D",
+     "hanzi": "汉语",
+     "pinyin": "Hànyǔ"
+    },
+    {
+     "label": "E",
+     "hanzi": "一直",
+     "pinyin": "yīzhí"
+    },
+    {
+     "label": "F",
+     "hanzi": "喜欢",
+     "pinyin": "xǐhuan"
+    }
+   ],
+   "correctAnswer": null,
+   "answerStatus": "missing",
+   "sourceRef": "HSK1_6_De_Thi_Thu_Full_Pinyin.docx › ĐỀ 06  |  TỔNG ÔN BÀI 6–10",
+   "audio": null,
+   "group": 36,
+   "questionType": "read_fill_bank",
+   "bankGroup": 36
+  }
+ ]
+}

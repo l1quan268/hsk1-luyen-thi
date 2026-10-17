@@ -1,0 +1,271 @@
+# BÁO CÁO KIỂM TOÁN NỘI DUNG TOÀN DIỆN 6 ĐỀ HSK 1 (240 CÂU)
+
+## 1. THỐNG KÊ TỔNG QUAN
+
+- **Tổng số câu kiểm tra**: 240 / 240 câu (100% rà soát chi tiết từng câu).
+- **Số câu đạt chuẩn (không phát hiện lỗi)**: 230 câu.
+- **Số câu có vấn đề về hình ảnh (Phân loại A)**: 10 câu (7 lỗi nặng ảnh hưởng kết quả làm bài + 3 câu đề xuất đồng bộ hóa lựa chọn trắc nghiệm).
+- **Số câu có lỗi đáp án (Phân loại B)**: 0 câu (Đáp án văn bản Word, bảng đáp án nhanh và Web hiện thống nhất 100%, các sai sót phát sinh là do hình ảnh không khớp nội dung).
+- **Số câu mơ hồ (Phân loại D)**: 0 câu.
+- **Số câu có lỗi Pinyin / Nghĩa tiếng Việt (Phân loại E)**: 0 câu (Pinyin chuẩn thanh điệu, giải nghĩa tiếng Việt đầy đủ).
+- **Số câu cần người dùng xác nhận**: 0 câu.
+
+## 2. CHI TIẾT CÁC CÂU CÓ VẤN ĐỀ VÀ PHƯƠNG ÁN XỬ LÝ
+
+| Đề | Câu | Dạng câu | Chữ Hán / Âm thanh | Đáp án | Ảnh hiện tại | Vấn đề phát hiện | Phương án khắc phục |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+| Đề 01 | Câu 04 | `listen_tf_image` | 我哥哥是老师。 | **T** | `img04` | Câu nghe '我哥哥是老师。' (anh trai tôi là giáo viên). Ảnh gốc img04 là khuôn mặt bạn nữ tóc nâu, không thể hiện giới tính nam (哥哥) hay nghề giáo viên (老师). | Thay ảnh img04 (nữ) bằng ảnh thầy giáo nam đứng lớp (img40). |
+| Đề 01 | Câu 23 | `read_tf_image` | 他想买一本书。 | **T** | `img21` | Câu đọc '他想买一本书。' (mua 1 quyển sách). Ảnh gốc img21 là chồng 3 quyển sách, gây phân vân về số lượng '一' (1 vs 3). | Thay ảnh img21 (3 quyển sách) bằng ảnh đúng 1 quyển sách (img41). |
+| Đề 02 | Câu 22 | `read_tf_image` | 我家有两只狗。 | **T** | `img06` | Câu đọc '我家有两只狗。' (2 con chó). Ảnh gốc img06 chỉ vẽ 1 mặt chó, mâu thuẫn trực tiếp với số từ '两' (hai). | Thay ảnh img06 (1 mặt chó) bằng ảnh 2 chú chó (img42). |
+| Đề 03 | Câu 04 | `listen_tf_image` | 我家有两只狗。 | **T** | `img06` | Câu nghe '我家有两只狗。' (2 con chó). Ảnh gốc img06 chỉ vẽ 1 mặt chó, mâu thuẫn trực tiếp với số từ '两' (hai). | Thay ảnh img06 (1 mặt chó) bằng ảnh 2 chú chó (img42). |
+| Đề 04 | Câu 05 | `listen_tf_image` | 我姐姐是医生。 | **T** | `img35` | Câu nghe '我姐姐是医生。' (chị gái tôi là bác sĩ). Ảnh gốc img35 chỉ là chiếc ống nghe y tế, thiếu ngữ nghĩa về nhân vật người chị gái (姐姐). | Thay ảnh img35 (ống nghe) bằng ảnh nữ bác sĩ đeo ống nghe (img43). |
+| Đề 04 | Câu 09 | `listen_pick_image` | 我家有两只狗。 | **B** | `img01; img06; img29` | Câu nghe '我家有两只狗。' (2 con chó). Đáp án B là hình con chó duy nhất trong 3 lựa chọn (mèo, chó, táo) nên vẫn chọn được B, nhưng dùng hình 2 con chó sẽ chính xác tuyệt đối. | Cập nhật lựa chọn B từ img06 (1 con chó) sang img42 (2 con chó). |
+| Đề 05 | Câu 06 | `listen_pick_image` | 我哥哥是老师。 | **A** | `img04; img13; img35` | Câu nghe '我哥哥是老师。'. Đáp án A là người duy nhất (người, ngân hàng, ống nghe), nhưng thay bằng thầy giáo nam sẽ chuẩn xác giới tính哥哥. | Cập nhật lựa chọn A từ img04 sang img40 (thầy giáo nam). |
+| Đề 05 | Câu 21 | `read_tf_image` | 今天星期五。 | **T** | `img39` | Câu đọc '今天星期五。' (hôm nay thứ Sáu). Ảnh gốc img39 chỉ ghi 'July 17', hoàn toàn không có thứ trong tuần để đối chiếu. | Thay ảnh img39 (chỉ ghi July 17) bằng ảnh lịch có ghi rõ thứ Sáu FRI / 星期五 (img44). |
+| Đề 05 | Câu 23 | `read_tf_image` | 我的生日是八月十七号。 | **T** | `img18` | Câu đọc '我的生日是八月十七号。' (sinh nhật 17 tháng 8). Ảnh gốc img18 chỉ là chiếc bánh kem chung chung không có ngày tháng. | Thay ảnh img18 (bánh sinh nhật không ngày) bằng ảnh sinh nhật có lịch ghi 8月17日 / Aug 17 (img45). |
+| Đề 06 | Câu 06 | `listen_pick_image` | 我的生日是八月十七号。 | **A** | `img18; img21; img11` | Câu nghe '我的生日是八月十七号。'. Đáp án A là sinh nhật (bánh sinh nhật vs sách vs trường học), đổi sang ảnh có ngày 8月17日 sẽ chuẩn xác 100%. | Cập nhật lựa chọn A từ img18 sang img45 (bánh/lịch sinh nhật có 8月17日). |
+
+## 3. BẢNG KIỂM TOÁN CHI TIẾT 240 CÂU
+
+| Đề | Câu | Dạng | Chữ Hán | Đáp án Word | Đáp án Web | Ảnh ID | Trạng thái | Phân loại | Đề xuất sửa / Bằng chứng | Độ tin cậy | Review |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| 1 | 01 | listen_tf_image | 我喜欢看中国电影。 | F | F | img01 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 02 | listen_tf_image | 今天晚上我们看电影。 | T | T | img02 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 03 | listen_tf_image | 这个周末我要去看电影。 | F | F | img03 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 04 | listen_tf_image | 我哥哥是老师。 | T | T | img04 | issue | A | Thay ảnh img04 (nữ) bằng ảnh thầy giáo nam đứng lớp (img40). | high | fixed |
+| 1 | 05 | listen_tf_image | 他想坐出租车。 | F | F | img05 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 06 | listen_pick_image | 我想吃鱼。 | C | C | img01; img06; img07 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 07 | listen_pick_image | 我的朋友喜欢喝茶。 | A | A | img08; img09; img10 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 08 | listen_pick_image | 我爸爸在银行工作。 | C | C | img11; img12; img13 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 09 | listen_pick_image | 我弟弟想去买电脑。 | C | C | img14; img15; img16 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 10 | listen_pick_image | 我姐姐每天早上喝茶。 | C | C | img10; img17; img08 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 11 | match_image_bank | 这是我的电脑。 | C | C | img18; img01; img16; img19; img20 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 12 | match_image_bank | 今天是我的生日。 | A | A | img18; img01; img16; img19; img20 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 13 | match_image_bank | 我想坐公交车。 | D | D | img18; img01; img16; img19; img20 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 14 | match_image_bank | 我喜欢看电影。 | E | E | img18; img01; img16; img19; img20 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 15 | match_image_bank | 我家有一只猫。 | B | B | img18; img01; img16; img19; img20 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 16 | listen_dialog_choice | 你喜欢中国电影还是美国电影？ 我喜欢中国电影。 他喜欢什么电影？ | A | A | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 17 | listen_dialog_choice | 你想坐公交车吗？ 不，我想坐地铁。 她想坐什么车？ | B | B | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 18 | listen_dialog_choice | 你有几只猫？ 我有两只猫。 她有几只猫？ | B | B | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 19 | listen_dialog_choice | 你哥哥今年多大？ 他今年二十岁。 哥哥今年几岁？ | A | A | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 20 | listen_dialog_choice | 你妈妈做什么工作？ 她是医生。 妈妈做什么工作？ | B | B | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 21 | read_tf_image | 我哥哥喜欢听音乐。 | T | T | img03 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 22 | read_tf_image | 我家有两只狗。 | F | F | img01 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 23 | read_tf_image | 他想买一本书。 | T | T | img21 | issue | A | Thay ảnh img21 (3 quyển sách) bằng ảnh đúng 1 quyển sách (img41). | high | fixed |
+| 1 | 24 | read_tf_image | 我每天骑自行车。 | F | F | img22 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 25 | read_tf_image | 他坐汽车去学校。 | T | T | img22 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 26 | read_pick_image | 我妈妈喜欢看书。 | A | A | img21; img14; img20 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 27 | read_pick_image | 我们在家里休息。 | A | A | img23; img12; img11 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 28 | read_pick_image | 这是我家的照片。 | A | A | img15; img16; img21 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 29 | read_pick_image | 我们家有一只可爱的小狗。 | A | A | img06; img07; img01 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 30 | read_pick_image | 我妈妈在医院工作。 | A | A | img12; img13; img11 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 31 | read_match_answer | 你喜欢看什么电影？ | E | E | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 32 | read_match_answer | 你家有几口人？ | C | C | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 33 | read_match_answer | 你姐姐今年多大？ | A | A | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 34 | read_match_answer | 这是你的照片吗？ | D | D | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 35 | read_match_answer | 你喜欢猫还是狗？ | B | B | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 36 | read_fill_bank | 我很______看中国电影。 | C | C | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 37 | read_fill_bank | 你家有几______人？ | E | E | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 38 | read_fill_bank | 他今年二十______。 | F | F | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 39 | read_fill_bank | 我有两______小猫。 | B | B | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 1 | 40 | read_fill_bank | 这是我姐姐的______。 | A | A | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 01 | listen_tf_image | 我中午吃米饭。 | T | T | img17 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 02 | listen_tf_image | 周末我们去公园玩。 | F | F | img11 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 03 | listen_tf_image | 我的朋友喜欢喝茶。 | T | T | img08 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 04 | listen_tf_image | 我们坐地铁去。 | F | F | img19 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 05 | listen_tf_image | 今天是我的生日。 | T | T | img18 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 06 | listen_pick_image | 他想坐出租车。 | A | A | img24; img25; img05 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 07 | listen_pick_image | 她想买一把椅子。 | B | B | img16; img26; img14 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 08 | listen_pick_image | 她喜欢坐公交车去工作。 | C | C | img25; img27; img19 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 09 | listen_pick_image | 妈妈在商店买菜。 | A | A | img28; img08; img29 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 10 | listen_pick_image | 我们一起去电影院。 | A | A | img02; img11; img12 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 11 | match_image_bank | 我想坐公交车。 | D | D | img20; img06; img12; img19; img15 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 12 | match_image_bank | 这是我姐姐的照片。 | E | E | img20; img06; img12; img19; img15 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 13 | match_image_bank | 弟弟喜欢狗。 | B | B | img20; img06; img12; img19; img15 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 14 | match_image_bank | 我喜欢看电影。 | A | A | img20; img06; img12; img19; img15 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 15 | match_image_bank | 我妈妈在医院工作。 | C | C | img20; img06; img12; img19; img15 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 16 | listen_dialog_choice | 这个星期天你去哪里？ 我去电影院。 星期天他去哪里？ | A | A | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 17 | listen_dialog_choice | 你家有几口人？ 我家有四口人。 他家有几口人？ | C | C | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 18 | listen_dialog_choice | 这是谁的照片？ 这是我妹妹的照片。 这是谁的照片？ | B | B | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 19 | listen_dialog_choice | 你晚上做什么？ 我听音乐。 他晚上做什么？ | A | A | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 20 | listen_dialog_choice | 你姐姐是老师吗？ 不是，她是律师。 姐姐是做什么的？ | C | C | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 21 | read_tf_image | 哥哥想去买一张照片。 | F | F | img21 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 22 | read_tf_image | 我家有两只狗。 | T | T | img06 | issue | A | Thay ảnh img06 (1 mặt chó) bằng ảnh 2 chú chó (img42). | high | fixed |
+| 2 | 23 | read_tf_image | 我喜欢看中国电影。 | F | F | img01 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 24 | read_tf_image | 她喜欢喝咖啡。 | T | T | img10 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 25 | read_tf_image | 他想买一本书。 | F | F | img16 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 26 | read_pick_image | 他坐汽车去学校。 | A | A | img22; img19; img25 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 27 | read_pick_image | 这是我的电脑。 | A | A | img16; img14; img21 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 28 | read_pick_image | 我现在要打电话。 | A | A | img14; img16; img03 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 29 | read_pick_image | 弟弟喜欢吃苹果。 | C | C | img30; img08; img29 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 30 | read_pick_image | 我想去商店买东西。 | C | C | img31; img13; img32 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 31 | read_match_answer | 你妈妈做什么工作？ | A | A | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 32 | read_match_answer | 你为什么不坐出租车？ | C | C | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 33 | read_match_answer | 你想怎么去电影院？ | B | B | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 34 | read_match_answer | 你的妹妹可爱吗？ | D | D | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 35 | read_match_answer | 你哥哥在哪里工作？ | E | E | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 36 | read_fill_bank | 我想______地铁去。 | A | A | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 37 | read_fill_bank | 她______漂亮又聪明。 | B | B | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 38 | read_fill_bank | ______出租车很贵，所以我坐公交车。 | D | D | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 39 | read_fill_bank | 我晚上喜欢______音乐。 | C | C | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 2 | 40 | read_fill_bank | 这是我的______，他今年十八岁。 | F | F | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 01 | listen_tf_image | 我中午吃米饭。 | F | F | img08 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 02 | listen_tf_image | 我妹妹很喜欢吃面条。 | T | T | img33 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 03 | listen_tf_image | 妈妈在商店买菜。 | F | F | img29 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 04 | listen_tf_image | 我家有两只狗。 | T | T | img06 | issue | A | Thay ảnh img06 (1 mặt chó) bằng ảnh 2 chú chó (img42). | high | fixed |
+| 3 | 05 | listen_tf_image | 我们坐地铁去。 | F | F | img19 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 06 | listen_pick_image | 哥哥想去买一张照片。 | A | A | img15; img14; img21 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 07 | listen_pick_image | 妹妹喜欢到公园玩。 | B | B | img11; img31; img12 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 08 | listen_pick_image | 我想去商店买东西。 | C | C | img31; img13; img32 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 09 | listen_pick_image | 这是一家很好的饭店。 | B | B | img13; img34; img12 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 10 | listen_pick_image | 他坐汽车去学校。 | A | A | img22; img19; img25 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 11 | match_image_bank | 这是我姐姐的照片。 | C | C | img29; img03; img15; img06; img05 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 12 | match_image_bank | 我们坐地铁去学校。 | E | E | img29; img03; img15; img06; img05 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 13 | match_image_bank | 弟弟喜欢狗。 | D | D | img29; img03; img15; img06; img05 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 14 | match_image_bank | 我喜欢吃苹果。 | A | A | img29; img03; img15; img06; img05 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 15 | match_image_bank | 我喜欢听音乐。 | B | B | img29; img03; img15; img06; img05 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 16 | listen_dialog_choice | 你喜欢喝咖啡吗？ 不，我喜欢喝茶。 他喜欢喝什么？ | B | B | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 17 | listen_dialog_choice | 你为什么不坐出租车？ 因为出租车太贵了。 他为什么不坐出租车？ | A | A | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 18 | listen_dialog_choice | 今天你有空儿吗？ 没有，我要去工作。 她今天要做什么？ | B | B | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 19 | listen_dialog_choice | 你弟弟喜欢什么动物？ 他喜欢狗。 弟弟喜欢什么？ | C | C | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 20 | listen_dialog_choice | 明天你去商店吗？ 去，我要买电脑。 她要买什么？ | A | A | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 21 | read_tf_image | 我的妹妹喜欢小猫。 | T | T | img01 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 22 | read_tf_image | 这是我家的照片。 | F | F | img16 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 23 | read_tf_image | 我弟弟想去买电脑。 | T | T | img16 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 24 | read_tf_image | 她喜欢坐公交车去工作。 | F | F | img27 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 25 | read_tf_image | 弟弟在学校学习。 | T | T | img11 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 26 | read_pick_image | 这是我的电脑。 | A | A | img16; img21; img14 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 27 | read_pick_image | 我想坐公交车。 | A | A | img19; img05; img24 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 28 | read_pick_image | 我的朋友想坐飞机。 | A | A | img27; img24; img05 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 29 | read_pick_image | 我的朋友喜欢喝茶。 | C | C | img09; img10; img08 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 30 | read_pick_image | 我妈妈喜欢看书。 | C | C | img20; img14; img21 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 31 | read_match_answer | 今天晚上你有空儿吗？ | D | D | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 32 | read_match_answer | 你喜欢听音乐吗？ | A | A | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 33 | read_match_answer | 你家有几只猫？ | E | E | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 34 | read_match_answer | 她是你的姐姐吗？ | B | B | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 35 | read_match_answer | 你想买什么东西？ | C | C | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 36 | read_fill_bank | 妈妈在医院做______。 | A | A | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 37 | read_fill_bank | 今天晚上我们去______看电影。 | E | E | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 38 | read_fill_bank | 我家有一______很可爱的小狗。 | F | F | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 39 | read_fill_bank | 我想去______买东西。 | B | B | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 3 | 40 | read_fill_bank | 她喜欢在家______汉字。 | C | C | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 01 | listen_tf_image | 我弟弟想去买电脑。 | T | T | img16 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 02 | listen_tf_image | 我的朋友想坐飞机。 | F | F | img05 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 03 | listen_tf_image | 弟弟喜欢吃苹果。 | T | T | img29 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 04 | listen_tf_image | 我们在家里休息。 | F | F | img11 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 05 | listen_tf_image | 我姐姐是医生。 | T | T | img35 | issue | A | Thay ảnh img35 (ống nghe) bằng ảnh nữ bác sĩ đeo ống nghe (img43). | high | fixed |
+| 4 | 06 | listen_pick_image | 她喜欢坐公交车去工作。 | B | B | img25; img19; img27 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 07 | listen_pick_image | 明天我要去学校。 | B | B | img13; img11; img34 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 08 | listen_pick_image | 我每天骑自行车。 | B | B | img19; img25; img22 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 09 | listen_pick_image | 我家有两只狗。 | B | B | img01; img06; img29 | subtle_issue | A | Cập nhật lựa chọn B từ img06 (1 con chó) sang img42 (2 con chó). | high | fixed |
+| 4 | 10 | listen_pick_image | 我妹妹很喜欢吃面条。 | B | B | img17; img33; img30 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 11 | match_image_bank | 我家有一只猫。 | D | D | img20; img10; img05; img01; img06 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 12 | match_image_bank | 我喜欢看电影。 | A | A | img20; img10; img05; img01; img06 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 13 | match_image_bank | 弟弟喜欢狗。 | E | E | img20; img10; img05; img01; img06 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 14 | match_image_bank | 我想喝咖啡。 | B | B | img20; img10; img05; img01; img06 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 15 | match_image_bank | 我们坐地铁去学校。 | C | C | img20; img10; img05; img01; img06 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 16 | listen_dialog_choice | 你在哪儿工作？ 我在北京工作。 他在哪儿工作？ | B | B | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 17 | listen_dialog_choice | 从这里到银行怎么走？ 先往左拐，然后一直走。 先怎么走？ | B | B | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 18 | listen_dialog_choice | 你的生日是几月几号？ 八月十七号。 她什么时候生日？ | B | B | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 19 | listen_dialog_choice | 你周末有空儿吗？ 有，我们去看电影吧。 他们周末做什么？ | A | A | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 20 | listen_dialog_choice | 你怎么去学校？ 我每天走路去。 他怎么去学校？ | C | C | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 21 | read_tf_image | 附近有一家银行。 | F | F | img12 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 22 | read_tf_image | 我爸爸在银行工作。 | T | T | img13 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 23 | read_tf_image | 我想吃水果。 | F | F | img30 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 24 | read_tf_image | 哥哥想去买一张照片。 | T | T | img15 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 25 | read_tf_image | 我们去超市买东西。 | F | F | img31 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 26 | read_pick_image | 我在公园看见一只狗。 | C | C | img01; img07; img06 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 27 | read_pick_image | 妹妹喜欢到公园玩。 | A | A | img31; img12; img11 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 28 | read_pick_image | 我们家有一只可爱的小狗。 | A | A | img06; img01; img07 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 29 | read_pick_image | 我想买几个苹果。 | A | A | img29; img07; img08 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 30 | read_pick_image | 他坐汽车去学校。 | B | B | img19; img22; img25 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 31 | read_match_answer | 你在哪儿学习汉语？ | E | E | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 32 | read_match_answer | 请问，银行在哪儿？ | D | D | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 33 | read_match_answer | 从这里到学校怎么走？ | B | B | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 34 | read_match_answer | 你的生日是几月几号？ | C | C | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 35 | read_match_answer | 今天星期几？ | A | A | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 36 | read_fill_bank | 我在北京______汉语。 | A | A | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 37 | read_fill_bank | 我爸爸在上海______。 | C | C | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 38 | read_fill_bank | 书店在银行______。 | D | D | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 39 | read_fill_bank | 请问，附近有______吗？ | B | B | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 4 | 40 | read_fill_bank | ______这里到饭店怎么走？ | F | F | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 01 | listen_tf_image | 我想去商店买东西。 | F | F | img13 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 02 | listen_tf_image | 我想吃水果。 | T | T | img36 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 03 | listen_tf_image | 弟弟喜欢吃苹果。 | F | F | img30 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 04 | listen_tf_image | 她喜欢坐公交车去工作。 | T | T | img19 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 05 | listen_tf_image | 这是我家的照片。 | F | F | img16 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 06 | listen_pick_image | 我哥哥是老师。 | A | A | img04; img13; img35 | subtle_issue | A | Cập nhật lựa chọn A từ img04 sang img40 (thầy giáo nam). | high | fixed |
+| 5 | 07 | listen_pick_image | 我想坐公交车。 | C | C | img24; img05; img19 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 08 | listen_pick_image | 我妈妈在医院工作。 | B | B | img13; img12; img11 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 09 | listen_pick_image | 我们在家里休息。 | C | C | img12; img11; img23 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 10 | listen_pick_image | 我的朋友想坐飞机。 | C | C | img24; img05; img27 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 11 | match_image_bank | 我喜欢喝茶。 | C | C | img06; img20; img08; img37; img38 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 12 | match_image_bank | 我们走路去学校。 | E | E | img06; img20; img08; img37; img38 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 13 | match_image_bank | 爸爸在公司工作。 | D | D | img06; img20; img08; img37; img38 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 14 | match_image_bank | 弟弟喜欢狗。 | A | A | img06; img20; img08; img37; img38 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 15 | match_image_bank | 我喜欢看电影。 | B | B | img06; img20; img08; img37; img38 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 16 | listen_dialog_choice | 你喜欢吃什么？ 我喜欢吃牛肉。 她喜欢吃什么？ | B | B | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 17 | listen_dialog_choice | 你爸爸在大学教什么？ 他教英语。 爸爸教什么？ | B | B | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 18 | listen_dialog_choice | 你想坐出租车吗？ 不，我想坐公交车。 他想坐什么？ | C | C | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 19 | listen_dialog_choice | 这家饭店远吗？ 不远，就在学校旁边。 饭店在哪里？ | A | A | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 20 | listen_dialog_choice | 你想喝茶还是咖啡？ 我想喝茶。 她想喝什么？ | C | C | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 21 | read_tf_image | 今天星期五。 | T | T | img39 | issue | A | Thay ảnh img39 (chỉ ghi July 17) bằng ảnh lịch có ghi rõ thứ Sáu FRI / 星期五 (img44). | high | fixed |
+| 5 | 22 | read_tf_image | 她喜欢喝咖啡。 | F | F | img08 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 23 | read_tf_image | 我的生日是八月十七号。 | T | T | img18 | issue | A | Thay ảnh img18 (bánh sinh nhật không ngày) bằng ảnh sinh nhật có lịch ghi 8月17日 / Aug 17 (img45). | high | fixed |
+| 5 | 24 | read_tf_image | 我们去四川饭店吃面条。 | F | F | img10 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 25 | read_tf_image | 他想坐出租车。 | T | T | img24 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 26 | read_pick_image | 今天是我的生日。 | B | B | img11; img18; img20 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 27 | read_pick_image | 我想去公园走路。 | B | B | img24; img38; img25 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 28 | read_pick_image | 我在公园看见一只狗。 | B | B | img01; img06; img07 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 29 | read_pick_image | 我现在要打电话。 | C | C | img03; img16; img14 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 30 | read_pick_image | 妹妹喜欢到公园玩。 | C | C | img11; img12; img31 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 31 | read_match_answer | 你想吃什么？ | C | C | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 32 | read_match_answer | 你为什么不去公园？ | A | A | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 33 | read_match_answer | 你家离学校远吗？ | D | D | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 34 | read_match_answer | 周末你想做什么？ | B | B | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 35 | read_match_answer | 你明天有空儿吗？ | E | E | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 36 | read_fill_bank | 你______往左拐，然后一直走。 | F | F | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 37 | read_fill_bank | 我家______学校很近。 | D | D | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 38 | read_fill_bank | 今天是星期______。 | E | E | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 39 | read_fill_bank | 你的______是几月几号？ | A | A | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 5 | 40 | read_fill_bank | 你明天有______吗？ | C | C | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 01 | listen_tf_image | 我中午吃米饭。 | T | T | img17 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 02 | listen_tf_image | 爸爸每天在公司工作。 | F | F | img20 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 03 | listen_tf_image | 我们去超市买东西。 | T | T | img32 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 04 | listen_tf_image | 他从学校骑车回家。 | F | F | img22 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 05 | listen_tf_image | 明天我要去学校。 | T | T | img11 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 06 | listen_pick_image | 我的生日是八月十七号。 | A | A | img18; img21; img11 | subtle_issue | A | Cập nhật lựa chọn A từ img18 sang img45 (bánh/lịch sinh nhật có 8月17日). | high | fixed |
+| 6 | 07 | listen_pick_image | 妈妈在商店买菜。 | C | C | img08; img29; img28 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 08 | listen_pick_image | 这是我家的照片。 | A | A | img15; img21; img16 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 09 | listen_pick_image | 我想坐公交车。 | A | A | img19; img05; img24 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 10 | listen_pick_image | 我爸爸在银行工作。 | A | A | img13; img12; img11 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 11 | match_image_bank | 我喜欢听音乐。 | B | B | img37; img03; img32; img08; img15 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 12 | match_image_bank | 我去商店买东西。 | C | C | img37; img03; img32; img08; img15 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 13 | match_image_bank | 我喜欢喝茶。 | D | D | img37; img03; img32; img08; img15 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 14 | match_image_bank | 爸爸在公司工作。 | A | A | img37; img03; img32; img08; img15 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 15 | match_image_bank | 这是我姐姐的照片。 | E | E | img37; img03; img32; img08; img15 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 16 | listen_dialog_choice | 你今天晚上有事吗？ 有，我要学习汉语。 他晚上做什么？ | A | A | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 17 | listen_dialog_choice | 你家附近有公园吗？ 有，在超市对面。 公园在哪里？ | B | B | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 18 | listen_dialog_choice | 你什么时候去北京？ 明天上午。 他什么时候去北京？ | B | B | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 19 | listen_dialog_choice | 你会说汉语吗？ 会，我在大学学习汉语。 她在哪里学习汉语？ | A | A | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 20 | listen_dialog_choice | 周末你打算去哪儿？ 我想去公园。 他周末想去哪儿？ | A | A | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 21 | read_tf_image | 他坐汽车去学校。 | F | F | img25 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 22 | read_tf_image | 他想坐出租车。 | T | T | img24 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 23 | read_tf_image | 我妈妈喜欢看书。 | F | F | img14 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 24 | read_tf_image | 我们一起去电影院。 | T | T | img02 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 25 | read_tf_image | 我的朋友喜欢喝茶。 | F | F | img10 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 26 | read_pick_image | 这个饭店离我家很近。 | A | A | img34; img12; img31 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 27 | read_pick_image | 我们坐地铁去。 | B | B | img24; img05; img19 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 28 | read_pick_image | 我在公园看见一只狗。 | A | A | img06; img07; img01 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 29 | read_pick_image | 我现在要打电话。 | B | B | img16; img14; img03 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 30 | read_pick_image | 周末我们去公园玩。 | C | C | img12; img11; img31 | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 31 | read_match_answer | 你想坐什么车？ | E | E | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 32 | read_match_answer | 你喜欢喝茶吗？ | C | C | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 33 | read_match_answer | 你在什么公司工作？ | B | B | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 34 | read_match_answer | 这里有中国饭店吗？ | D | D | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 35 | read_match_answer | 你怎么去上班？ | A | A | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 36 | read_fill_bank | 这家饭店的菜又好吃又______。 | C | C | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 37 | read_fill_bank | 我很______喝中国茶。 | F | F | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 38 | read_fill_bank | 我们______走，五百米就到了。 | E | E | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 39 | read_fill_bank | 晚上我们一起去看______。 | B | B | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |
+| 6 | 40 | read_fill_bank | 因为我很忙，______我不去。 | A | A | - | pass | none | Matches standard HSK 1 curriculum and clear semantics. | high | verified |

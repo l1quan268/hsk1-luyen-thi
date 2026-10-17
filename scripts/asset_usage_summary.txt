@@ -1,0 +1,468 @@
+
+==================== img01 (assets/img01.png, docx: image1.png) - Used in 21 questions ====================
+  [01-01] Type:listen_tf_image Ans:F | Hanzi:我喜欢看中国电影。 | Exp:Tôi thích xem phim Trung Quốc.
+  [01-06] Type:listen_pick_image Ans:C | Hanzi:我想吃鱼。 | Exp:Tôi muốn ăn cá.
+  [01-11] Type:match_image_bank Ans:C | Hanzi:这是我的电脑。 | Exp:Đây là máy tính của tôi.
+  [01-12] Type:match_image_bank Ans:A | Hanzi:今天是我的生日。 | Exp:Hôm nay là sinh nhật tôi.
+  [01-13] Type:match_image_bank Ans:D | Hanzi:我想坐公交车。 | Exp:Tôi muốn đi xe buýt.
+  [01-14] Type:match_image_bank Ans:E | Hanzi:我喜欢看电影。 | Exp:Tôi thích xem phim.
+  [01-15] Type:match_image_bank Ans:B | Hanzi:我家有一只猫。 | Exp:Nhà tôi có một con mèo.
+  [01-22] Type:read_tf_image Ans:F | Hanzi:我家有两只狗。 | Exp:Nhà tôi có hai con chó.
+  [01-29] Type:read_pick_image Ans:A | Hanzi:我们家有一只可爱的小狗。 | Exp:Nhà tôi có một chú chó đáng yêu.
+  [02-23] Type:read_tf_image Ans:F | Hanzi:我喜欢看中国电影。 | Exp:Tôi thích xem phim Trung Quốc.
+  [03-21] Type:read_tf_image Ans:T | Hanzi:我的妹妹喜欢小猫。 | Exp:Em gái tôi thích mèo con.
+  [04-09] Type:listen_pick_image Ans:B | Hanzi:我家有两只狗。 | Exp:Nhà tôi có hai con chó.
+  [04-11] Type:match_image_bank Ans:D | Hanzi:我家有一只猫。 | Exp:Nhà tôi có một con mèo.
+  [04-12] Type:match_image_bank Ans:A | Hanzi:我喜欢看电影。 | Exp:Tôi thích xem phim.
+  [04-13] Type:match_image_bank Ans:E | Hanzi:弟弟喜欢狗。 | Exp:Em trai thích chó.
+  [04-14] Type:match_image_bank Ans:B | Hanzi:我想喝咖啡。 | Exp:Tôi muốn uống cà phê.
+  [04-15] Type:match_image_bank Ans:C | Hanzi:我们坐地铁去学校。 | Exp:Chúng tôi đi tàu điện ngầm đến trường.
+  [04-26] Type:read_pick_image Ans:C | Hanzi:我在公园看见一只狗。 | Exp:Tôi nhìn thấy một con chó ở công viên.
+  [04-28] Type:read_pick_image Ans:A | Hanzi:我们家有一只可爱的小狗。 | Exp:Nhà tôi có một chú chó đáng yêu.
+  [05-28] Type:read_pick_image Ans:B | Hanzi:我在公园看见一只狗。 | Exp:Tôi nhìn thấy một con chó ở công viên.
+  [06-28] Type:read_pick_image Ans:A | Hanzi:我在公园看见一只狗。 | Exp:Tôi nhìn thấy một con chó ở công viên.
+
+==================== img02 (assets/img02.png, docx: image2.png) - Used in 3 questions ====================
+  [01-02] Type:listen_tf_image Ans:T | Hanzi:今天晚上我们看电影。 | Exp:Tối nay chúng tôi xem phim.
+  [02-10] Type:listen_pick_image Ans:A | Hanzi:我们一起去电影院。 | Exp:Chúng tôi cùng đến rạp chiếu phim.
+  [06-24] Type:read_tf_image Ans:T | Hanzi:我们一起去电影院。 | Exp:Chúng tôi cùng đến rạp chiếu phim.
+
+==================== img03 (assets/img03.png, docx: image3.png) - Used in 15 questions ====================
+  [01-03] Type:listen_tf_image Ans:F | Hanzi:这个周末我要去看电影。 | Exp:Cuối tuần này tôi sẽ xem phim.
+  [01-21] Type:read_tf_image Ans:T | Hanzi:我哥哥喜欢听音乐。 | Exp:Anh trai tôi thích nghe nhạc.
+  [02-28] Type:read_pick_image Ans:A | Hanzi:我现在要打电话。 | Exp:Bây giờ tôi phải gọi điện.
+  [03-11] Type:match_image_bank Ans:C | Hanzi:这是我姐姐的照片。 | Exp:Đây là ảnh của chị gái tôi.
+  [03-12] Type:match_image_bank Ans:E | Hanzi:我们坐地铁去学校。 | Exp:Chúng tôi đi tàu điện ngầm đến trường.
+  [03-13] Type:match_image_bank Ans:D | Hanzi:弟弟喜欢狗。 | Exp:Em trai thích chó.
+  [03-14] Type:match_image_bank Ans:A | Hanzi:我喜欢吃苹果。 | Exp:Tôi thích ăn táo.
+  [03-15] Type:match_image_bank Ans:B | Hanzi:我喜欢听音乐。 | Exp:Tôi thích nghe nhạc.
+  [05-29] Type:read_pick_image Ans:C | Hanzi:我现在要打电话。 | Exp:Bây giờ tôi phải gọi điện.
+  [06-11] Type:match_image_bank Ans:B | Hanzi:我喜欢听音乐。 | Exp:Tôi thích nghe nhạc.
+  [06-12] Type:match_image_bank Ans:C | Hanzi:我去商店买东西。 | Exp:Tôi đi cửa hàng mua đồ.
+  [06-13] Type:match_image_bank Ans:D | Hanzi:我喜欢喝茶。 | Exp:Tôi thích uống trà.
+  [06-14] Type:match_image_bank Ans:A | Hanzi:爸爸在公司工作。 | Exp:Bố làm việc ở công ty.
+  [06-15] Type:match_image_bank Ans:E | Hanzi:这是我姐姐的照片。 | Exp:Đây là ảnh của chị gái tôi.
+  [06-29] Type:read_pick_image Ans:B | Hanzi:我现在要打电话。 | Exp:Bây giờ tôi phải gọi điện.
+
+==================== img04 (assets/img04.png, docx: image4.png) - Used in 2 questions ====================
+  [01-04] Type:listen_tf_image Ans:T | Hanzi:我哥哥是老师。 | Exp:Anh trai tôi là giáo viên.
+  [05-06] Type:listen_pick_image Ans:A | Hanzi:我哥哥是老师。 | Exp:Anh trai tôi là giáo viên.
+
+==================== img05 (assets/img05.png, docx: image5.png) - Used in 19 questions ====================
+  [01-05] Type:listen_tf_image Ans:F | Hanzi:他想坐出租车。 | Exp:Anh ấy muốn đi taxi.
+  [02-06] Type:listen_pick_image Ans:A | Hanzi:他想坐出租车。 | Exp:Anh ấy muốn đi taxi.
+  [03-11] Type:match_image_bank Ans:C | Hanzi:这是我姐姐的照片。 | Exp:Đây là ảnh của chị gái tôi.
+  [03-12] Type:match_image_bank Ans:E | Hanzi:我们坐地铁去学校。 | Exp:Chúng tôi đi tàu điện ngầm đến trường.
+  [03-13] Type:match_image_bank Ans:D | Hanzi:弟弟喜欢狗。 | Exp:Em trai thích chó.
+  [03-14] Type:match_image_bank Ans:A | Hanzi:我喜欢吃苹果。 | Exp:Tôi thích ăn táo.
+  [03-15] Type:match_image_bank Ans:B | Hanzi:我喜欢听音乐。 | Exp:Tôi thích nghe nhạc.
+  [03-27] Type:read_pick_image Ans:A | Hanzi:我想坐公交车。 | Exp:Tôi muốn đi xe buýt.
+  [03-28] Type:read_pick_image Ans:A | Hanzi:我的朋友想坐飞机。 | Exp:Bạn tôi muốn đi máy bay.
+  [04-02] Type:listen_tf_image Ans:F | Hanzi:我的朋友想坐飞机。 | Exp:Bạn tôi muốn đi máy bay.
+  [04-11] Type:match_image_bank Ans:D | Hanzi:我家有一只猫。 | Exp:Nhà tôi có một con mèo.
+  [04-12] Type:match_image_bank Ans:A | Hanzi:我喜欢看电影。 | Exp:Tôi thích xem phim.
+  [04-13] Type:match_image_bank Ans:E | Hanzi:弟弟喜欢狗。 | Exp:Em trai thích chó.
+  [04-14] Type:match_image_bank Ans:B | Hanzi:我想喝咖啡。 | Exp:Tôi muốn uống cà phê.
+  [04-15] Type:match_image_bank Ans:C | Hanzi:我们坐地铁去学校。 | Exp:Chúng tôi đi tàu điện ngầm đến trường.
+  [05-07] Type:listen_pick_image Ans:C | Hanzi:我想坐公交车。 | Exp:Tôi muốn đi xe buýt.
+  [05-10] Type:listen_pick_image Ans:C | Hanzi:我的朋友想坐飞机。 | Exp:Bạn tôi muốn đi máy bay.
+  [06-09] Type:listen_pick_image Ans:A | Hanzi:我想坐公交车。 | Exp:Tôi muốn đi xe buýt.
+  [06-27] Type:read_pick_image Ans:B | Hanzi:我们坐地铁去。 | Exp:Chúng tôi đi tàu điện ngầm.
+
+==================== img06 (assets/img06.png, docx: image6.png) - Used in 29 questions ====================
+  [01-06] Type:listen_pick_image Ans:C | Hanzi:我想吃鱼。 | Exp:Tôi muốn ăn cá.
+  [01-29] Type:read_pick_image Ans:A | Hanzi:我们家有一只可爱的小狗。 | Exp:Nhà tôi có một chú chó đáng yêu.
+  [02-11] Type:match_image_bank Ans:D | Hanzi:我想坐公交车。 | Exp:Tôi muốn đi xe buýt.
+  [02-12] Type:match_image_bank Ans:E | Hanzi:这是我姐姐的照片。 | Exp:Đây là ảnh của chị gái tôi.
+  [02-13] Type:match_image_bank Ans:B | Hanzi:弟弟喜欢狗。 | Exp:Em trai thích chó.
+  [02-14] Type:match_image_bank Ans:A | Hanzi:我喜欢看电影。 | Exp:Tôi thích xem phim.
+  [02-15] Type:match_image_bank Ans:C | Hanzi:我妈妈在医院工作。 | Exp:Mẹ tôi làm việc ở bệnh viện.
+  [02-22] Type:read_tf_image Ans:T | Hanzi:我家有两只狗。 | Exp:Nhà tôi có hai con chó.
+  [03-04] Type:listen_tf_image Ans:T | Hanzi:我家有两只狗。 | Exp:Nhà tôi có hai con chó.
+  [03-11] Type:match_image_bank Ans:C | Hanzi:这是我姐姐的照片。 | Exp:Đây là ảnh của chị gái tôi.
+  [03-12] Type:match_image_bank Ans:E | Hanzi:我们坐地铁去学校。 | Exp:Chúng tôi đi tàu điện ngầm đến trường.
+  [03-13] Type:match_image_bank Ans:D | Hanzi:弟弟喜欢狗。 | Exp:Em trai thích chó.
+  [03-14] Type:match_image_bank Ans:A | Hanzi:我喜欢吃苹果。 | Exp:Tôi thích ăn táo.
+  [03-15] Type:match_image_bank Ans:B | Hanzi:我喜欢听音乐。 | Exp:Tôi thích nghe nhạc.
+  [04-09] Type:listen_pick_image Ans:B | Hanzi:我家有两只狗。 | Exp:Nhà tôi có hai con chó.
+  [04-11] Type:match_image_bank Ans:D | Hanzi:我家有一只猫。 | Exp:Nhà tôi có một con mèo.
+  [04-12] Type:match_image_bank Ans:A | Hanzi:我喜欢看电影。 | Exp:Tôi thích xem phim.
+  [04-13] Type:match_image_bank Ans:E | Hanzi:弟弟喜欢狗。 | Exp:Em trai thích chó.
+  [04-14] Type:match_image_bank Ans:B | Hanzi:我想喝咖啡。 | Exp:Tôi muốn uống cà phê.
+  [04-15] Type:match_image_bank Ans:C | Hanzi:我们坐地铁去学校。 | Exp:Chúng tôi đi tàu điện ngầm đến trường.
+  [04-26] Type:read_pick_image Ans:C | Hanzi:我在公园看见一只狗。 | Exp:Tôi nhìn thấy một con chó ở công viên.
+  [04-28] Type:read_pick_image Ans:A | Hanzi:我们家有一只可爱的小狗。 | Exp:Nhà tôi có một chú chó đáng yêu.
+  [05-11] Type:match_image_bank Ans:C | Hanzi:我喜欢喝茶。 | Exp:Tôi thích uống trà.
+  [05-12] Type:match_image_bank Ans:E | Hanzi:我们走路去学校。 | Exp:Chúng tôi đi bộ đến trường.
+  [05-13] Type:match_image_bank Ans:D | Hanzi:爸爸在公司工作。 | Exp:Bố làm việc ở công ty.
+  [05-14] Type:match_image_bank Ans:A | Hanzi:弟弟喜欢狗。 | Exp:Em trai thích chó.
+  [05-15] Type:match_image_bank Ans:B | Hanzi:我喜欢看电影。 | Exp:Tôi thích xem phim.
+  [05-28] Type:read_pick_image Ans:B | Hanzi:我在公园看见一只狗。 | Exp:Tôi nhìn thấy một con chó ở công viên.
+  [06-28] Type:read_pick_image Ans:A | Hanzi:我在公园看见一只狗。 | Exp:Tôi nhìn thấy một con chó ở công viên.
+
+==================== img07 (assets/img07.png, docx: image7.png) - Used in 7 questions ====================
+  [01-06] Type:listen_pick_image Ans:C | Hanzi:我想吃鱼。 | Exp:Tôi muốn ăn cá.
+  [01-29] Type:read_pick_image Ans:A | Hanzi:我们家有一只可爱的小狗。 | Exp:Nhà tôi có một chú chó đáng yêu.
+  [04-26] Type:read_pick_image Ans:C | Hanzi:我在公园看见一只狗。 | Exp:Tôi nhìn thấy một con chó ở công viên.
+  [04-28] Type:read_pick_image Ans:A | Hanzi:我们家有一只可爱的小狗。 | Exp:Nhà tôi có một chú chó đáng yêu.
+  [04-29] Type:read_pick_image Ans:A | Hanzi:我想买几个苹果。 | Exp:Tôi muốn mua vài quả táo.
+  [05-28] Type:read_pick_image Ans:B | Hanzi:我在公园看见一只狗。 | Exp:Tôi nhìn thấy một con chó ở công viên.
+  [06-28] Type:read_pick_image Ans:A | Hanzi:我在公园看见一只狗。 | Exp:Tôi nhìn thấy một con chó ở công viên.
+
+==================== img08 (assets/img08.png, docx: image8.png) - Used in 20 questions ====================
+  [01-07] Type:listen_pick_image Ans:A | Hanzi:我的朋友喜欢喝茶。 | Exp:Bạn tôi thích uống trà.
+  [01-10] Type:listen_pick_image Ans:C | Hanzi:我姐姐每天早上喝茶。 | Exp:Chị tôi uống trà mỗi sáng.
+  [02-03] Type:listen_tf_image Ans:T | Hanzi:我的朋友喜欢喝茶。 | Exp:Bạn tôi thích uống trà.
+  [02-09] Type:listen_pick_image Ans:A | Hanzi:妈妈在商店买菜。 | Exp:Mẹ mua rau tại cửa hàng.
+  [02-29] Type:read_pick_image Ans:C | Hanzi:弟弟喜欢吃苹果。 | Exp:Em trai thích ăn táo.
+  [03-01] Type:listen_tf_image Ans:F | Hanzi:我中午吃米饭。 | Exp:Buổi trưa tôi ăn cơm.
+  [03-29] Type:read_pick_image Ans:C | Hanzi:我的朋友喜欢喝茶。 | Exp:Bạn tôi thích uống trà.
+  [04-29] Type:read_pick_image Ans:A | Hanzi:我想买几个苹果。 | Exp:Tôi muốn mua vài quả táo.
+  [05-11] Type:match_image_bank Ans:C | Hanzi:我喜欢喝茶。 | Exp:Tôi thích uống trà.
+  [05-12] Type:match_image_bank Ans:E | Hanzi:我们走路去学校。 | Exp:Chúng tôi đi bộ đến trường.
+  [05-13] Type:match_image_bank Ans:D | Hanzi:爸爸在公司工作。 | Exp:Bố làm việc ở công ty.
+  [05-14] Type:match_image_bank Ans:A | Hanzi:弟弟喜欢狗。 | Exp:Em trai thích chó.
+  [05-15] Type:match_image_bank Ans:B | Hanzi:我喜欢看电影。 | Exp:Tôi thích xem phim.
+  [05-22] Type:read_tf_image Ans:F | Hanzi:她喜欢喝咖啡。 | Exp:Cô ấy thích uống cà phê.
+  [06-07] Type:listen_pick_image Ans:C | Hanzi:妈妈在商店买菜。 | Exp:Mẹ mua rau tại cửa hàng.
+  [06-11] Type:match_image_bank Ans:B | Hanzi:我喜欢听音乐。 | Exp:Tôi thích nghe nhạc.
+  [06-12] Type:match_image_bank Ans:C | Hanzi:我去商店买东西。 | Exp:Tôi đi cửa hàng mua đồ.
+  [06-13] Type:match_image_bank Ans:D | Hanzi:我喜欢喝茶。 | Exp:Tôi thích uống trà.
+  [06-14] Type:match_image_bank Ans:A | Hanzi:爸爸在公司工作。 | Exp:Bố làm việc ở công ty.
+  [06-15] Type:match_image_bank Ans:E | Hanzi:这是我姐姐的照片。 | Exp:Đây là ảnh của chị gái tôi.
+
+==================== img09 (assets/img09.png, docx: image9.png) - Used in 2 questions ====================
+  [01-07] Type:listen_pick_image Ans:A | Hanzi:我的朋友喜欢喝茶。 | Exp:Bạn tôi thích uống trà.
+  [03-29] Type:read_pick_image Ans:C | Hanzi:我的朋友喜欢喝茶。 | Exp:Bạn tôi thích uống trà.
+
+==================== img10 (assets/img10.png, docx: image10.png) - Used in 11 questions ====================
+  [01-07] Type:listen_pick_image Ans:A | Hanzi:我的朋友喜欢喝茶。 | Exp:Bạn tôi thích uống trà.
+  [01-10] Type:listen_pick_image Ans:C | Hanzi:我姐姐每天早上喝茶。 | Exp:Chị tôi uống trà mỗi sáng.
+  [02-24] Type:read_tf_image Ans:T | Hanzi:她喜欢喝咖啡。 | Exp:Cô ấy thích uống cà phê.
+  [03-29] Type:read_pick_image Ans:C | Hanzi:我的朋友喜欢喝茶。 | Exp:Bạn tôi thích uống trà.
+  [04-11] Type:match_image_bank Ans:D | Hanzi:我家有一只猫。 | Exp:Nhà tôi có một con mèo.
+  [04-12] Type:match_image_bank Ans:A | Hanzi:我喜欢看电影。 | Exp:Tôi thích xem phim.
+  [04-13] Type:match_image_bank Ans:E | Hanzi:弟弟喜欢狗。 | Exp:Em trai thích chó.
+  [04-14] Type:match_image_bank Ans:B | Hanzi:我想喝咖啡。 | Exp:Tôi muốn uống cà phê.
+  [04-15] Type:match_image_bank Ans:C | Hanzi:我们坐地铁去学校。 | Exp:Chúng tôi đi tàu điện ngầm đến trường.
+  [05-24] Type:read_tf_image Ans:F | Hanzi:我们去四川饭店吃面条。 | Exp:Chúng tôi đi nhà hàng Tứ Xuyên ăn mì.
+  [06-25] Type:read_tf_image Ans:F | Hanzi:我的朋友喜欢喝茶。 | Exp:Bạn tôi thích uống trà.
+
+==================== img11 (assets/img11.png, docx: image11.png) - Used in 18 questions ====================
+  [01-08] Type:listen_pick_image Ans:C | Hanzi:我爸爸在银行工作。 | Exp:Bố tôi làm việc ở ngân hàng.
+  [01-27] Type:read_pick_image Ans:A | Hanzi:我们在家里休息。 | Exp:Chúng tôi nghỉ ngơi ở nhà.
+  [01-30] Type:read_pick_image Ans:A | Hanzi:我妈妈在医院工作。 | Exp:Mẹ tôi làm việc ở bệnh viện.
+  [02-02] Type:listen_tf_image Ans:F | Hanzi:周末我们去公园玩。 | Exp:Cuối tuần chúng tôi đến công viên chơi.
+  [02-10] Type:listen_pick_image Ans:A | Hanzi:我们一起去电影院。 | Exp:Chúng tôi cùng đến rạp chiếu phim.
+  [03-07] Type:listen_pick_image Ans:B | Hanzi:妹妹喜欢到公园玩。 | Exp:Em gái thích đến công viên chơi.
+  [03-25] Type:read_tf_image Ans:T | Hanzi:弟弟在学校学习。 | Exp:Em trai đang học ở trường.
+  [04-04] Type:listen_tf_image Ans:F | Hanzi:我们在家里休息。 | Exp:Chúng tôi nghỉ ngơi ở nhà.
+  [04-07] Type:listen_pick_image Ans:B | Hanzi:明天我要去学校。 | Exp:Ngày mai tôi sẽ đến trường.
+  [04-27] Type:read_pick_image Ans:A | Hanzi:妹妹喜欢到公园玩。 | Exp:Em gái thích đến công viên chơi.
+  [05-08] Type:listen_pick_image Ans:B | Hanzi:我妈妈在医院工作。 | Exp:Mẹ tôi làm việc ở bệnh viện.
+  [05-09] Type:listen_pick_image Ans:C | Hanzi:我们在家里休息。 | Exp:Chúng tôi nghỉ ngơi ở nhà.
+  [05-26] Type:read_pick_image Ans:B | Hanzi:今天是我的生日。 | Exp:Hôm nay là sinh nhật tôi.
+  [05-30] Type:read_pick_image Ans:C | Hanzi:妹妹喜欢到公园玩。 | Exp:Em gái thích đến công viên chơi.
+  [06-05] Type:listen_tf_image Ans:T | Hanzi:明天我要去学校。 | Exp:Ngày mai tôi sẽ đến trường.
+  [06-06] Type:listen_pick_image Ans:A | Hanzi:我的生日是八月十七号。 | Exp:Sinh nhật tôi là 17 tháng 8.
+  [06-10] Type:listen_pick_image Ans:A | Hanzi:我爸爸在银行工作。 | Exp:Bố tôi làm việc ở ngân hàng.
+  [06-30] Type:read_pick_image Ans:C | Hanzi:周末我们去公园玩。 | Exp:Cuối tuần chúng tôi đến công viên chơi.
+
+==================== img12 (assets/img12.png, docx: image12.png) - Used in 19 questions ====================
+  [01-08] Type:listen_pick_image Ans:C | Hanzi:我爸爸在银行工作。 | Exp:Bố tôi làm việc ở ngân hàng.
+  [01-27] Type:read_pick_image Ans:A | Hanzi:我们在家里休息。 | Exp:Chúng tôi nghỉ ngơi ở nhà.
+  [01-30] Type:read_pick_image Ans:A | Hanzi:我妈妈在医院工作。 | Exp:Mẹ tôi làm việc ở bệnh viện.
+  [02-10] Type:listen_pick_image Ans:A | Hanzi:我们一起去电影院。 | Exp:Chúng tôi cùng đến rạp chiếu phim.
+  [02-11] Type:match_image_bank Ans:D | Hanzi:我想坐公交车。 | Exp:Tôi muốn đi xe buýt.
+  [02-12] Type:match_image_bank Ans:E | Hanzi:这是我姐姐的照片。 | Exp:Đây là ảnh của chị gái tôi.
+  [02-13] Type:match_image_bank Ans:B | Hanzi:弟弟喜欢狗。 | Exp:Em trai thích chó.
+  [02-14] Type:match_image_bank Ans:A | Hanzi:我喜欢看电影。 | Exp:Tôi thích xem phim.
+  [02-15] Type:match_image_bank Ans:C | Hanzi:我妈妈在医院工作。 | Exp:Mẹ tôi làm việc ở bệnh viện.
+  [03-07] Type:listen_pick_image Ans:B | Hanzi:妹妹喜欢到公园玩。 | Exp:Em gái thích đến công viên chơi.
+  [03-09] Type:listen_pick_image Ans:B | Hanzi:这是一家很好的饭店。 | Exp:Đây là một nhà hàng rất tốt.
+  [04-21] Type:read_tf_image Ans:F | Hanzi:附近有一家银行。 | Exp:Gần đây có một ngân hàng.
+  [04-27] Type:read_pick_image Ans:A | Hanzi:妹妹喜欢到公园玩。 | Exp:Em gái thích đến công viên chơi.
+  [05-08] Type:listen_pick_image Ans:B | Hanzi:我妈妈在医院工作。 | Exp:Mẹ tôi làm việc ở bệnh viện.
+  [05-09] Type:listen_pick_image Ans:C | Hanzi:我们在家里休息。 | Exp:Chúng tôi nghỉ ngơi ở nhà.
+  [05-30] Type:read_pick_image Ans:C | Hanzi:妹妹喜欢到公园玩。 | Exp:Em gái thích đến công viên chơi.
+  [06-10] Type:listen_pick_image Ans:A | Hanzi:我爸爸在银行工作。 | Exp:Bố tôi làm việc ở ngân hàng.
+  [06-26] Type:read_pick_image Ans:A | Hanzi:这个饭店离我家很近。 | Exp:Nhà hàng này ở gần nhà tôi.
+  [06-30] Type:read_pick_image Ans:C | Hanzi:周末我们去公园玩。 | Exp:Cuối tuần chúng tôi đến công viên chơi.
+
+==================== img13 (assets/img13.png, docx: image13.png) - Used in 11 questions ====================
+  [01-08] Type:listen_pick_image Ans:C | Hanzi:我爸爸在银行工作。 | Exp:Bố tôi làm việc ở ngân hàng.
+  [01-30] Type:read_pick_image Ans:A | Hanzi:我妈妈在医院工作。 | Exp:Mẹ tôi làm việc ở bệnh viện.
+  [02-30] Type:read_pick_image Ans:C | Hanzi:我想去商店买东西。 | Exp:Tôi muốn đến cửa hàng mua đồ.
+  [03-08] Type:listen_pick_image Ans:C | Hanzi:我想去商店买东西。 | Exp:Tôi muốn đến cửa hàng mua đồ.
+  [03-09] Type:listen_pick_image Ans:B | Hanzi:这是一家很好的饭店。 | Exp:Đây là một nhà hàng rất tốt.
+  [04-07] Type:listen_pick_image Ans:B | Hanzi:明天我要去学校。 | Exp:Ngày mai tôi sẽ đến trường.
+  [04-22] Type:read_tf_image Ans:T | Hanzi:我爸爸在银行工作。 | Exp:Bố tôi làm việc ở ngân hàng.
+  [05-01] Type:listen_tf_image Ans:F | Hanzi:我想去商店买东西。 | Exp:Tôi muốn đến cửa hàng mua đồ.
+  [05-06] Type:listen_pick_image Ans:A | Hanzi:我哥哥是老师。 | Exp:Anh trai tôi là giáo viên.
+  [05-08] Type:listen_pick_image Ans:B | Hanzi:我妈妈在医院工作。 | Exp:Mẹ tôi làm việc ở bệnh viện.
+  [06-10] Type:listen_pick_image Ans:A | Hanzi:我爸爸在银行工作。 | Exp:Bố tôi làm việc ở ngân hàng.
+
+==================== img14 (assets/img14.png, docx: image14.png) - Used in 11 questions ====================
+  [01-09] Type:listen_pick_image Ans:C | Hanzi:我弟弟想去买电脑。 | Exp:Em tôi muốn đi mua máy tính.
+  [01-26] Type:read_pick_image Ans:A | Hanzi:我妈妈喜欢看书。 | Exp:Mẹ tôi thích đọc sách.
+  [02-07] Type:listen_pick_image Ans:B | Hanzi:她想买一把椅子。 | Exp:Cô ấy muốn mua một chiếc ghế.
+  [02-27] Type:read_pick_image Ans:A | Hanzi:这是我的电脑。 | Exp:Đây là máy tính của tôi.
+  [02-28] Type:read_pick_image Ans:A | Hanzi:我现在要打电话。 | Exp:Bây giờ tôi phải gọi điện.
+  [03-06] Type:listen_pick_image Ans:A | Hanzi:哥哥想去买一张照片。 | Exp:Anh trai muốn mua một tấm ảnh.
+  [03-26] Type:read_pick_image Ans:A | Hanzi:这是我的电脑。 | Exp:Đây là máy tính của tôi.
+  [03-30] Type:read_pick_image Ans:C | Hanzi:我妈妈喜欢看书。 | Exp:Mẹ tôi thích đọc sách.
+  [05-29] Type:read_pick_image Ans:C | Hanzi:我现在要打电话。 | Exp:Bây giờ tôi phải gọi điện.
+  [06-23] Type:read_tf_image Ans:F | Hanzi:我妈妈喜欢看书。 | Exp:Mẹ tôi thích đọc sách.
+  [06-29] Type:read_pick_image Ans:B | Hanzi:我现在要打电话。 | Exp:Bây giờ tôi phải gọi điện.
+
+==================== img15 (assets/img15.png, docx: image15.png) - Used in 20 questions ====================
+  [01-09] Type:listen_pick_image Ans:C | Hanzi:我弟弟想去买电脑。 | Exp:Em tôi muốn đi mua máy tính.
+  [01-28] Type:read_pick_image Ans:A | Hanzi:这是我家的照片。 | Exp:Đây là ảnh gia đình tôi.
+  [02-11] Type:match_image_bank Ans:D | Hanzi:我想坐公交车。 | Exp:Tôi muốn đi xe buýt.
+  [02-12] Type:match_image_bank Ans:E | Hanzi:这是我姐姐的照片。 | Exp:Đây là ảnh của chị gái tôi.
+  [02-13] Type:match_image_bank Ans:B | Hanzi:弟弟喜欢狗。 | Exp:Em trai thích chó.
+  [02-14] Type:match_image_bank Ans:A | Hanzi:我喜欢看电影。 | Exp:Tôi thích xem phim.
+  [02-15] Type:match_image_bank Ans:C | Hanzi:我妈妈在医院工作。 | Exp:Mẹ tôi làm việc ở bệnh viện.
+  [03-06] Type:listen_pick_image Ans:A | Hanzi:哥哥想去买一张照片。 | Exp:Anh trai muốn mua một tấm ảnh.
+  [03-11] Type:match_image_bank Ans:C | Hanzi:这是我姐姐的照片。 | Exp:Đây là ảnh của chị gái tôi.
+  [03-12] Type:match_image_bank Ans:E | Hanzi:我们坐地铁去学校。 | Exp:Chúng tôi đi tàu điện ngầm đến trường.
+  [03-13] Type:match_image_bank Ans:D | Hanzi:弟弟喜欢狗。 | Exp:Em trai thích chó.
+  [03-14] Type:match_image_bank Ans:A | Hanzi:我喜欢吃苹果。 | Exp:Tôi thích ăn táo.
+  [03-15] Type:match_image_bank Ans:B | Hanzi:我喜欢听音乐。 | Exp:Tôi thích nghe nhạc.
+  [04-24] Type:read_tf_image Ans:T | Hanzi:哥哥想去买一张照片。 | Exp:Anh trai muốn mua một tấm ảnh.
+  [06-08] Type:listen_pick_image Ans:A | Hanzi:这是我家的照片。 | Exp:Đây là ảnh gia đình tôi.
+  [06-11] Type:match_image_bank Ans:B | Hanzi:我喜欢听音乐。 | Exp:Tôi thích nghe nhạc.
+  [06-12] Type:match_image_bank Ans:C | Hanzi:我去商店买东西。 | Exp:Tôi đi cửa hàng mua đồ.
+  [06-13] Type:match_image_bank Ans:D | Hanzi:我喜欢喝茶。 | Exp:Tôi thích uống trà.
+  [06-14] Type:match_image_bank Ans:A | Hanzi:爸爸在公司工作。 | Exp:Bố làm việc ở công ty.
+  [06-15] Type:match_image_bank Ans:E | Hanzi:这是我姐姐的照片。 | Exp:Đây là ảnh của chị gái tôi.
+
+==================== img16 (assets/img16.png, docx: image16.png) - Used in 19 questions ====================
+  [01-09] Type:listen_pick_image Ans:C | Hanzi:我弟弟想去买电脑。 | Exp:Em tôi muốn đi mua máy tính.
+  [01-11] Type:match_image_bank Ans:C | Hanzi:这是我的电脑。 | Exp:Đây là máy tính của tôi.
+  [01-12] Type:match_image_bank Ans:A | Hanzi:今天是我的生日。 | Exp:Hôm nay là sinh nhật tôi.
+  [01-13] Type:match_image_bank Ans:D | Hanzi:我想坐公交车。 | Exp:Tôi muốn đi xe buýt.
+  [01-14] Type:match_image_bank Ans:E | Hanzi:我喜欢看电影。 | Exp:Tôi thích xem phim.
+  [01-15] Type:match_image_bank Ans:B | Hanzi:我家有一只猫。 | Exp:Nhà tôi có một con mèo.
+  [01-28] Type:read_pick_image Ans:A | Hanzi:这是我家的照片。 | Exp:Đây là ảnh gia đình tôi.
+  [02-07] Type:listen_pick_image Ans:B | Hanzi:她想买一把椅子。 | Exp:Cô ấy muốn mua một chiếc ghế.
+  [02-25] Type:read_tf_image Ans:F | Hanzi:他想买一本书。 | Exp:Anh ấy muốn mua một quyển sách.
+  [02-27] Type:read_pick_image Ans:A | Hanzi:这是我的电脑。 | Exp:Đây là máy tính của tôi.
+  [02-28] Type:read_pick_image Ans:A | Hanzi:我现在要打电话。 | Exp:Bây giờ tôi phải gọi điện.
+  [03-22] Type:read_tf_image Ans:F | Hanzi:这是我家的照片。 | Exp:Đây là ảnh gia đình tôi.
+  [03-23] Type:read_tf_image Ans:T | Hanzi:我弟弟想去买电脑。 | Exp:Em tôi muốn đi mua máy tính.
+  [03-26] Type:read_pick_image Ans:A | Hanzi:这是我的电脑。 | Exp:Đây là máy tính của tôi.
+  [04-01] Type:listen_tf_image Ans:T | Hanzi:我弟弟想去买电脑。 | Exp:Em tôi muốn đi mua máy tính.
+  [05-05] Type:listen_tf_image Ans:F | Hanzi:这是我家的照片。 | Exp:Đây là ảnh gia đình tôi.
+  [05-29] Type:read_pick_image Ans:C | Hanzi:我现在要打电话。 | Exp:Bây giờ tôi phải gọi điện.
+  [06-08] Type:listen_pick_image Ans:A | Hanzi:这是我家的照片。 | Exp:Đây là ảnh gia đình tôi.
+  [06-29] Type:read_pick_image Ans:B | Hanzi:我现在要打电话。 | Exp:Bây giờ tôi phải gọi điện.
+
+==================== img17 (assets/img17.png, docx: image17.png) - Used in 4 questions ====================
+  [01-10] Type:listen_pick_image Ans:C | Hanzi:我姐姐每天早上喝茶。 | Exp:Chị tôi uống trà mỗi sáng.
+  [02-01] Type:listen_tf_image Ans:T | Hanzi:我中午吃米饭。 | Exp:Buổi trưa tôi ăn cơm.
+  [04-10] Type:listen_pick_image Ans:B | Hanzi:我妹妹很喜欢吃面条。 | Exp:Em gái tôi rất thích ăn mì.
+  [06-01] Type:listen_tf_image Ans:T | Hanzi:我中午吃米饭。 | Exp:Buổi trưa tôi ăn cơm.
+
+==================== img18 (assets/img18.png, docx: image18.png) - Used in 9 questions ====================
+  [01-11] Type:match_image_bank Ans:C | Hanzi:这是我的电脑。 | Exp:Đây là máy tính của tôi.
+  [01-12] Type:match_image_bank Ans:A | Hanzi:今天是我的生日。 | Exp:Hôm nay là sinh nhật tôi.
+  [01-13] Type:match_image_bank Ans:D | Hanzi:我想坐公交车。 | Exp:Tôi muốn đi xe buýt.
+  [01-14] Type:match_image_bank Ans:E | Hanzi:我喜欢看电影。 | Exp:Tôi thích xem phim.
+  [01-15] Type:match_image_bank Ans:B | Hanzi:我家有一只猫。 | Exp:Nhà tôi có một con mèo.
+  [02-05] Type:listen_tf_image Ans:T | Hanzi:今天是我的生日。 | Exp:Hôm nay là sinh nhật tôi.
+  [05-23] Type:read_tf_image Ans:T | Hanzi:我的生日是八月十七号。 | Exp:Sinh nhật tôi là 17 tháng 8.
+  [05-26] Type:read_pick_image Ans:B | Hanzi:今天是我的生日。 | Exp:Hôm nay là sinh nhật tôi.
+  [06-06] Type:listen_pick_image Ans:A | Hanzi:我的生日是八月十七号。 | Exp:Sinh nhật tôi là 17 tháng 8.
+
+==================== img19 (assets/img19.png, docx: image19.png) - Used in 23 questions ====================
+  [01-11] Type:match_image_bank Ans:C | Hanzi:这是我的电脑。 | Exp:Đây là máy tính của tôi.
+  [01-12] Type:match_image_bank Ans:A | Hanzi:今天是我的生日。 | Exp:Hôm nay là sinh nhật tôi.
+  [01-13] Type:match_image_bank Ans:D | Hanzi:我想坐公交车。 | Exp:Tôi muốn đi xe buýt.
+  [01-14] Type:match_image_bank Ans:E | Hanzi:我喜欢看电影。 | Exp:Tôi thích xem phim.
+  [01-15] Type:match_image_bank Ans:B | Hanzi:我家有一只猫。 | Exp:Nhà tôi có một con mèo.
+  [02-04] Type:listen_tf_image Ans:F | Hanzi:我们坐地铁去。 | Exp:Chúng tôi đi tàu điện ngầm.
+  [02-08] Type:listen_pick_image Ans:C | Hanzi:她喜欢坐公交车去工作。 | Exp:Cô ấy thích đi xe buýt đến chỗ làm.
+  [02-11] Type:match_image_bank Ans:D | Hanzi:我想坐公交车。 | Exp:Tôi muốn đi xe buýt.
+  [02-12] Type:match_image_bank Ans:E | Hanzi:这是我姐姐的照片。 | Exp:Đây là ảnh của chị gái tôi.
+  [02-13] Type:match_image_bank Ans:B | Hanzi:弟弟喜欢狗。 | Exp:Em trai thích chó.
+  [02-14] Type:match_image_bank Ans:A | Hanzi:我喜欢看电影。 | Exp:Tôi thích xem phim.
+  [02-15] Type:match_image_bank Ans:C | Hanzi:我妈妈在医院工作。 | Exp:Mẹ tôi làm việc ở bệnh viện.
+  [02-26] Type:read_pick_image Ans:A | Hanzi:他坐汽车去学校。 | Exp:Anh ấy đi ô tô đến trường.
+  [03-05] Type:listen_tf_image Ans:F | Hanzi:我们坐地铁去。 | Exp:Chúng tôi đi tàu điện ngầm.
+  [03-10] Type:listen_pick_image Ans:A | Hanzi:他坐汽车去学校。 | Exp:Anh ấy đi ô tô đến trường.
+  [03-27] Type:read_pick_image Ans:A | Hanzi:我想坐公交车。 | Exp:Tôi muốn đi xe buýt.
+  [04-06] Type:listen_pick_image Ans:B | Hanzi:她喜欢坐公交车去工作。 | Exp:Cô ấy thích đi xe buýt đến chỗ làm.
+  [04-08] Type:listen_pick_image Ans:B | Hanzi:我每天骑自行车。 | Exp:Tôi đạp xe mỗi ngày.
+  [04-30] Type:read_pick_image Ans:B | Hanzi:他坐汽车去学校。 | Exp:Anh ấy đi ô tô đến trường.
+  [05-04] Type:listen_tf_image Ans:T | Hanzi:她喜欢坐公交车去工作。 | Exp:Cô ấy thích đi xe buýt đến chỗ làm.
+  [05-07] Type:listen_pick_image Ans:C | Hanzi:我想坐公交车。 | Exp:Tôi muốn đi xe buýt.
+  [06-09] Type:listen_pick_image Ans:A | Hanzi:我想坐公交车。 | Exp:Tôi muốn đi xe buýt.
+  [06-27] Type:read_pick_image Ans:B | Hanzi:我们坐地铁去。 | Exp:Chúng tôi đi tàu điện ngầm.
+
+==================== img20 (assets/img20.png, docx: image20.png) - Used in 24 questions ====================
+  [01-11] Type:match_image_bank Ans:C | Hanzi:这是我的电脑。 | Exp:Đây là máy tính của tôi.
+  [01-12] Type:match_image_bank Ans:A | Hanzi:今天是我的生日。 | Exp:Hôm nay là sinh nhật tôi.
+  [01-13] Type:match_image_bank Ans:D | Hanzi:我想坐公交车。 | Exp:Tôi muốn đi xe buýt.
+  [01-14] Type:match_image_bank Ans:E | Hanzi:我喜欢看电影。 | Exp:Tôi thích xem phim.
+  [01-15] Type:match_image_bank Ans:B | Hanzi:我家有一只猫。 | Exp:Nhà tôi có một con mèo.
+  [01-26] Type:read_pick_image Ans:A | Hanzi:我妈妈喜欢看书。 | Exp:Mẹ tôi thích đọc sách.
+  [02-11] Type:match_image_bank Ans:D | Hanzi:我想坐公交车。 | Exp:Tôi muốn đi xe buýt.
+  [02-12] Type:match_image_bank Ans:E | Hanzi:这是我姐姐的照片。 | Exp:Đây là ảnh của chị gái tôi.
+  [02-13] Type:match_image_bank Ans:B | Hanzi:弟弟喜欢狗。 | Exp:Em trai thích chó.
+  [02-14] Type:match_image_bank Ans:A | Hanzi:我喜欢看电影。 | Exp:Tôi thích xem phim.
+  [02-15] Type:match_image_bank Ans:C | Hanzi:我妈妈在医院工作。 | Exp:Mẹ tôi làm việc ở bệnh viện.
+  [03-30] Type:read_pick_image Ans:C | Hanzi:我妈妈喜欢看书。 | Exp:Mẹ tôi thích đọc sách.
+  [04-11] Type:match_image_bank Ans:D | Hanzi:我家有一只猫。 | Exp:Nhà tôi có một con mèo.
+  [04-12] Type:match_image_bank Ans:A | Hanzi:我喜欢看电影。 | Exp:Tôi thích xem phim.
+  [04-13] Type:match_image_bank Ans:E | Hanzi:弟弟喜欢狗。 | Exp:Em trai thích chó.
+  [04-14] Type:match_image_bank Ans:B | Hanzi:我想喝咖啡。 | Exp:Tôi muốn uống cà phê.
+  [04-15] Type:match_image_bank Ans:C | Hanzi:我们坐地铁去学校。 | Exp:Chúng tôi đi tàu điện ngầm đến trường.
+  [05-11] Type:match_image_bank Ans:C | Hanzi:我喜欢喝茶。 | Exp:Tôi thích uống trà.
+  [05-12] Type:match_image_bank Ans:E | Hanzi:我们走路去学校。 | Exp:Chúng tôi đi bộ đến trường.
+  [05-13] Type:match_image_bank Ans:D | Hanzi:爸爸在公司工作。 | Exp:Bố làm việc ở công ty.
+  [05-14] Type:match_image_bank Ans:A | Hanzi:弟弟喜欢狗。 | Exp:Em trai thích chó.
+  [05-15] Type:match_image_bank Ans:B | Hanzi:我喜欢看电影。 | Exp:Tôi thích xem phim.
+  [05-26] Type:read_pick_image Ans:B | Hanzi:今天是我的生日。 | Exp:Hôm nay là sinh nhật tôi.
+  [06-02] Type:listen_tf_image Ans:F | Hanzi:爸爸每天在公司工作。 | Exp:Bố làm việc tại công ty mỗi ngày.
+
+==================== img21 (assets/img21.png, docx: image21.png) - Used in 10 questions ====================
+  [01-23] Type:read_tf_image Ans:T | Hanzi:他想买一本书。 | Exp:Anh ấy muốn mua một quyển sách.
+  [01-26] Type:read_pick_image Ans:A | Hanzi:我妈妈喜欢看书。 | Exp:Mẹ tôi thích đọc sách.
+  [01-28] Type:read_pick_image Ans:A | Hanzi:这是我家的照片。 | Exp:Đây là ảnh gia đình tôi.
+  [02-21] Type:read_tf_image Ans:F | Hanzi:哥哥想去买一张照片。 | Exp:Anh trai muốn mua một tấm ảnh.
+  [02-27] Type:read_pick_image Ans:A | Hanzi:这是我的电脑。 | Exp:Đây là máy tính của tôi.
+  [03-06] Type:listen_pick_image Ans:A | Hanzi:哥哥想去买一张照片。 | Exp:Anh trai muốn mua một tấm ảnh.
+  [03-26] Type:read_pick_image Ans:A | Hanzi:这是我的电脑。 | Exp:Đây là máy tính của tôi.
+  [03-30] Type:read_pick_image Ans:C | Hanzi:我妈妈喜欢看书。 | Exp:Mẹ tôi thích đọc sách.
+  [06-06] Type:listen_pick_image Ans:A | Hanzi:我的生日是八月十七号。 | Exp:Sinh nhật tôi là 17 tháng 8.
+  [06-08] Type:listen_pick_image Ans:A | Hanzi:这是我家的照片。 | Exp:Đây là ảnh gia đình tôi.
+
+==================== img22 (assets/img22.png, docx: image22.png) - Used in 7 questions ====================
+  [01-24] Type:read_tf_image Ans:F | Hanzi:我每天骑自行车。 | Exp:Tôi đạp xe mỗi ngày.
+  [01-25] Type:read_tf_image Ans:T | Hanzi:他坐汽车去学校。 | Exp:Anh ấy đi ô tô đến trường.
+  [02-26] Type:read_pick_image Ans:A | Hanzi:他坐汽车去学校。 | Exp:Anh ấy đi ô tô đến trường.
+  [03-10] Type:listen_pick_image Ans:A | Hanzi:他坐汽车去学校。 | Exp:Anh ấy đi ô tô đến trường.
+  [04-08] Type:listen_pick_image Ans:B | Hanzi:我每天骑自行车。 | Exp:Tôi đạp xe mỗi ngày.
+  [04-30] Type:read_pick_image Ans:B | Hanzi:他坐汽车去学校。 | Exp:Anh ấy đi ô tô đến trường.
+  [06-04] Type:listen_tf_image Ans:F | Hanzi:他从学校骑车回家。 | Exp:Anh ấy đạp xe từ trường về nhà.
+
+==================== img23 (assets/img23.png, docx: image23.png) - Used in 2 questions ====================
+  [01-27] Type:read_pick_image Ans:A | Hanzi:我们在家里休息。 | Exp:Chúng tôi nghỉ ngơi ở nhà.
+  [05-09] Type:listen_pick_image Ans:C | Hanzi:我们在家里休息。 | Exp:Chúng tôi nghỉ ngơi ở nhà.
+
+==================== img24 (assets/img24.png, docx: image24.png) - Used in 10 questions ====================
+  [02-06] Type:listen_pick_image Ans:A | Hanzi:他想坐出租车。 | Exp:Anh ấy muốn đi taxi.
+  [03-27] Type:read_pick_image Ans:A | Hanzi:我想坐公交车。 | Exp:Tôi muốn đi xe buýt.
+  [03-28] Type:read_pick_image Ans:A | Hanzi:我的朋友想坐飞机。 | Exp:Bạn tôi muốn đi máy bay.
+  [05-07] Type:listen_pick_image Ans:C | Hanzi:我想坐公交车。 | Exp:Tôi muốn đi xe buýt.
+  [05-10] Type:listen_pick_image Ans:C | Hanzi:我的朋友想坐飞机。 | Exp:Bạn tôi muốn đi máy bay.
+  [05-25] Type:read_tf_image Ans:T | Hanzi:他想坐出租车。 | Exp:Anh ấy muốn đi taxi.
+  [05-27] Type:read_pick_image Ans:B | Hanzi:我想去公园走路。 | Exp:Tôi muốn đi bộ trong công viên.
+  [06-09] Type:listen_pick_image Ans:A | Hanzi:我想坐公交车。 | Exp:Tôi muốn đi xe buýt.
+  [06-22] Type:read_tf_image Ans:T | Hanzi:他想坐出租车。 | Exp:Anh ấy muốn đi taxi.
+  [06-27] Type:read_pick_image Ans:B | Hanzi:我们坐地铁去。 | Exp:Chúng tôi đi tàu điện ngầm.
+
+==================== img25 (assets/img25.png, docx: image25.png) - Used in 9 questions ====================
+  [02-06] Type:listen_pick_image Ans:A | Hanzi:他想坐出租车。 | Exp:Anh ấy muốn đi taxi.
+  [02-08] Type:listen_pick_image Ans:C | Hanzi:她喜欢坐公交车去工作。 | Exp:Cô ấy thích đi xe buýt đến chỗ làm.
+  [02-26] Type:read_pick_image Ans:A | Hanzi:他坐汽车去学校。 | Exp:Anh ấy đi ô tô đến trường.
+  [03-10] Type:listen_pick_image Ans:A | Hanzi:他坐汽车去学校。 | Exp:Anh ấy đi ô tô đến trường.
+  [04-06] Type:listen_pick_image Ans:B | Hanzi:她喜欢坐公交车去工作。 | Exp:Cô ấy thích đi xe buýt đến chỗ làm.
+  [04-08] Type:listen_pick_image Ans:B | Hanzi:我每天骑自行车。 | Exp:Tôi đạp xe mỗi ngày.
+  [04-30] Type:read_pick_image Ans:B | Hanzi:他坐汽车去学校。 | Exp:Anh ấy đi ô tô đến trường.
+  [05-27] Type:read_pick_image Ans:B | Hanzi:我想去公园走路。 | Exp:Tôi muốn đi bộ trong công viên.
+  [06-21] Type:read_tf_image Ans:F | Hanzi:他坐汽车去学校。 | Exp:Anh ấy đi ô tô đến trường.
+
+==================== img26 (assets/img26.png, docx: image26.png) - Used in 1 questions ====================
+  [02-07] Type:listen_pick_image Ans:B | Hanzi:她想买一把椅子。 | Exp:Cô ấy muốn mua một chiếc ghế.
+
+==================== img27 (assets/img27.png, docx: image27.png) - Used in 5 questions ====================
+  [02-08] Type:listen_pick_image Ans:C | Hanzi:她喜欢坐公交车去工作。 | Exp:Cô ấy thích đi xe buýt đến chỗ làm.
+  [03-24] Type:read_tf_image Ans:F | Hanzi:她喜欢坐公交车去工作。 | Exp:Cô ấy thích đi xe buýt đến chỗ làm.
+  [03-28] Type:read_pick_image Ans:A | Hanzi:我的朋友想坐飞机。 | Exp:Bạn tôi muốn đi máy bay.
+  [04-06] Type:listen_pick_image Ans:B | Hanzi:她喜欢坐公交车去工作。 | Exp:Cô ấy thích đi xe buýt đến chỗ làm.
+  [05-10] Type:listen_pick_image Ans:C | Hanzi:我的朋友想坐飞机。 | Exp:Bạn tôi muốn đi máy bay.
+
+==================== img28 (assets/img28.png, docx: image28.png) - Used in 2 questions ====================
+  [02-09] Type:listen_pick_image Ans:A | Hanzi:妈妈在商店买菜。 | Exp:Mẹ mua rau tại cửa hàng.
+  [06-07] Type:listen_pick_image Ans:C | Hanzi:妈妈在商店买菜。 | Exp:Mẹ mua rau tại cửa hàng.
+
+==================== img29 (assets/img29.png, docx: image29.png) - Used in 12 questions ====================
+  [02-09] Type:listen_pick_image Ans:A | Hanzi:妈妈在商店买菜。 | Exp:Mẹ mua rau tại cửa hàng.
+  [02-29] Type:read_pick_image Ans:C | Hanzi:弟弟喜欢吃苹果。 | Exp:Em trai thích ăn táo.
+  [03-03] Type:listen_tf_image Ans:F | Hanzi:妈妈在商店买菜。 | Exp:Mẹ mua rau tại cửa hàng.
+  [03-11] Type:match_image_bank Ans:C | Hanzi:这是我姐姐的照片。 | Exp:Đây là ảnh của chị gái tôi.
+  [03-12] Type:match_image_bank Ans:E | Hanzi:我们坐地铁去学校。 | Exp:Chúng tôi đi tàu điện ngầm đến trường.
+  [03-13] Type:match_image_bank Ans:D | Hanzi:弟弟喜欢狗。 | Exp:Em trai thích chó.
+  [03-14] Type:match_image_bank Ans:A | Hanzi:我喜欢吃苹果。 | Exp:Tôi thích ăn táo.
+  [03-15] Type:match_image_bank Ans:B | Hanzi:我喜欢听音乐。 | Exp:Tôi thích nghe nhạc.
+  [04-03] Type:listen_tf_image Ans:T | Hanzi:弟弟喜欢吃苹果。 | Exp:Em trai thích ăn táo.
+  [04-09] Type:listen_pick_image Ans:B | Hanzi:我家有两只狗。 | Exp:Nhà tôi có hai con chó.
+  [04-29] Type:read_pick_image Ans:A | Hanzi:我想买几个苹果。 | Exp:Tôi muốn mua vài quả táo.
+  [06-07] Type:listen_pick_image Ans:C | Hanzi:妈妈在商店买菜。 | Exp:Mẹ mua rau tại cửa hàng.
+
+==================== img30 (assets/img30.png, docx: image30.png) - Used in 4 questions ====================
+  [02-29] Type:read_pick_image Ans:C | Hanzi:弟弟喜欢吃苹果。 | Exp:Em trai thích ăn táo.
+  [04-10] Type:listen_pick_image Ans:B | Hanzi:我妹妹很喜欢吃面条。 | Exp:Em gái tôi rất thích ăn mì.
+  [04-23] Type:read_tf_image Ans:F | Hanzi:我想吃水果。 | Exp:Tôi muốn ăn trái cây.
+  [05-03] Type:listen_tf_image Ans:F | Hanzi:弟弟喜欢吃苹果。 | Exp:Em trai thích ăn táo.
+
+==================== img31 (assets/img31.png, docx: image31.png) - Used in 8 questions ====================
+  [02-30] Type:read_pick_image Ans:C | Hanzi:我想去商店买东西。 | Exp:Tôi muốn đến cửa hàng mua đồ.
+  [03-07] Type:listen_pick_image Ans:B | Hanzi:妹妹喜欢到公园玩。 | Exp:Em gái thích đến công viên chơi.
+  [03-08] Type:listen_pick_image Ans:C | Hanzi:我想去商店买东西。 | Exp:Tôi muốn đến cửa hàng mua đồ.
+  [04-25] Type:read_tf_image Ans:F | Hanzi:我们去超市买东西。 | Exp:Chúng tôi đi siêu thị mua đồ.
+  [04-27] Type:read_pick_image Ans:A | Hanzi:妹妹喜欢到公园玩。 | Exp:Em gái thích đến công viên chơi.
+  [05-30] Type:read_pick_image Ans:C | Hanzi:妹妹喜欢到公园玩。 | Exp:Em gái thích đến công viên chơi.
+  [06-26] Type:read_pick_image Ans:A | Hanzi:这个饭店离我家很近。 | Exp:Nhà hàng này ở gần nhà tôi.
+  [06-30] Type:read_pick_image Ans:C | Hanzi:周末我们去公园玩。 | Exp:Cuối tuần chúng tôi đến công viên chơi.
+
+==================== img32 (assets/img32.png, docx: image32.png) - Used in 8 questions ====================
+  [02-30] Type:read_pick_image Ans:C | Hanzi:我想去商店买东西。 | Exp:Tôi muốn đến cửa hàng mua đồ.
+  [03-08] Type:listen_pick_image Ans:C | Hanzi:我想去商店买东西。 | Exp:Tôi muốn đến cửa hàng mua đồ.
+  [06-03] Type:listen_tf_image Ans:T | Hanzi:我们去超市买东西。 | Exp:Chúng tôi đi siêu thị mua đồ.
+  [06-11] Type:match_image_bank Ans:B | Hanzi:我喜欢听音乐。 | Exp:Tôi thích nghe nhạc.
+  [06-12] Type:match_image_bank Ans:C | Hanzi:我去商店买东西。 | Exp:Tôi đi cửa hàng mua đồ.
+  [06-13] Type:match_image_bank Ans:D | Hanzi:我喜欢喝茶。 | Exp:Tôi thích uống trà.
+  [06-14] Type:match_image_bank Ans:A | Hanzi:爸爸在公司工作。 | Exp:Bố làm việc ở công ty.
+  [06-15] Type:match_image_bank Ans:E | Hanzi:这是我姐姐的照片。 | Exp:Đây là ảnh của chị gái tôi.
+
+==================== img33 (assets/img33.png, docx: image33.png) - Used in 2 questions ====================
+  [03-02] Type:listen_tf_image Ans:T | Hanzi:我妹妹很喜欢吃面条。 | Exp:Em gái tôi rất thích ăn mì.
+  [04-10] Type:listen_pick_image Ans:B | Hanzi:我妹妹很喜欢吃面条。 | Exp:Em gái tôi rất thích ăn mì.
+
+==================== img34 (assets/img34.png, docx: image34.png) - Used in 3 questions ====================
+  [03-09] Type:listen_pick_image Ans:B | Hanzi:这是一家很好的饭店。 | Exp:Đây là một nhà hàng rất tốt.
+  [04-07] Type:listen_pick_image Ans:B | Hanzi:明天我要去学校。 | Exp:Ngày mai tôi sẽ đến trường.
+  [06-26] Type:read_pick_image Ans:A | Hanzi:这个饭店离我家很近。 | Exp:Nhà hàng này ở gần nhà tôi.
+
+==================== img35 (assets/img35.png, docx: image35.png) - Used in 2 questions ====================
+  [04-05] Type:listen_tf_image Ans:T | Hanzi:我姐姐是医生。 | Exp:Chị tôi là bác sĩ.
+  [05-06] Type:listen_pick_image Ans:A | Hanzi:我哥哥是老师。 | Exp:Anh trai tôi là giáo viên.
+
+==================== img36 (assets/img36.png, docx: image36.png) - Used in 1 questions ====================
+  [05-02] Type:listen_tf_image Ans:T | Hanzi:我想吃水果。 | Exp:Tôi muốn ăn trái cây.
+
+==================== img37 (assets/img37.png, docx: image37.png) - Used in 10 questions ====================
+  [05-11] Type:match_image_bank Ans:C | Hanzi:我喜欢喝茶。 | Exp:Tôi thích uống trà.
+  [05-12] Type:match_image_bank Ans:E | Hanzi:我们走路去学校。 | Exp:Chúng tôi đi bộ đến trường.
+  [05-13] Type:match_image_bank Ans:D | Hanzi:爸爸在公司工作。 | Exp:Bố làm việc ở công ty.
+  [05-14] Type:match_image_bank Ans:A | Hanzi:弟弟喜欢狗。 | Exp:Em trai thích chó.
+  [05-15] Type:match_image_bank Ans:B | Hanzi:我喜欢看电影。 | Exp:Tôi thích xem phim.
+  [06-11] Type:match_image_bank Ans:B | Hanzi:我喜欢听音乐。 | Exp:Tôi thích nghe nhạc.
+  [06-12] Type:match_image_bank Ans:C | Hanzi:我去商店买东西。 | Exp:Tôi đi cửa hàng mua đồ.
+  [06-13] Type:match_image_bank Ans:D | Hanzi:我喜欢喝茶。 | Exp:Tôi thích uống trà.
+  [06-14] Type:match_image_bank Ans:A | Hanzi:爸爸在公司工作。 | Exp:Bố làm việc ở công ty.
+  [06-15] Type:match_image_bank Ans:E | Hanzi:这是我姐姐的照片。 | Exp:Đây là ảnh của chị gái tôi.
+
+==================== img38 (assets/img38.png, docx: image38.png) - Used in 6 questions ====================
+  [05-11] Type:match_image_bank Ans:C | Hanzi:我喜欢喝茶。 | Exp:Tôi thích uống trà.
+  [05-12] Type:match_image_bank Ans:E | Hanzi:我们走路去学校。 | Exp:Chúng tôi đi bộ đến trường.
+  [05-13] Type:match_image_bank Ans:D | Hanzi:爸爸在公司工作。 | Exp:Bố làm việc ở công ty.
+  [05-14] Type:match_image_bank Ans:A | Hanzi:弟弟喜欢狗。 | Exp:Em trai thích chó.
+  [05-15] Type:match_image_bank Ans:B | Hanzi:我喜欢看电影。 | Exp:Tôi thích xem phim.
+  [05-27] Type:read_pick_image Ans:B | Hanzi:我想去公园走路。 | Exp:Tôi muốn đi bộ trong công viên.
+
+==================== img39 (assets/img39.png, docx: image39.png) - Used in 1 questions ====================
+  [05-21] Type:read_tf_image Ans:T | Hanzi:今天星期五。 | Exp:Hôm nay là thứ sáu.

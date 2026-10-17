@@ -1,0 +1,132 @@
+
+==================== EXAM 01 Section II Pick Image (06-10 and 26-30) ====================
+  Q06 | Ans: C | Hanzi: '我想吃鱼。'
+       Choices: A:img01 (1 con mèo vàng (猫)), B:img06 (1 mặt chó đốm nâu (1 con chó, 狗)), C:img07 (1 con cá xanh (鱼))
+  Q07 | Ans: A | Hanzi: '我的朋友喜欢喝茶。'
+       Choices: A:img08 (Tách trà xanh bốc khói (茶 / 喝茶)), B:img09 (Ly bia bọt (啤酒 / 喝啤酒)), C:img10 (Tách cà phê nóng (咖啡 / 喝咖啡))
+  Q08 | Ans: C | Hanzi: '我爸爸在银行工作。'
+       Choices: A:img11 (Trường học có đồng hồ (学校)), B:img12 (Bệnh viện có chữ thập đỏ (医院)), C:img13 (Ngân hàng có ký hiệu $ (银行))
+  Q09 | Ans: C | Hanzi: '我弟弟想去买电脑。'
+       Choices: A:img14 (Điện thoại bàn màu đỏ (电话 / 打电话)), B:img15 (Khung tranh phong cảnh cây cỏ (照片 / bức ảnh)), C:img16 (Máy tính xách tay laptop (电脑))
+  Q10 | Ans: C | Hanzi: '我姐姐每天早上喝茶。'
+       Choices: A:img10 (Tách cà phê nóng (咖啡 / 喝咖啡)), B:img17 (Bát cơm trắng (米饭 / 吃饭)), C:img08 (Tách trà xanh bốc khói (茶 / 喝茶))
+  Q26 | Ans: A | Hanzi: '我妈妈喜欢看书。'
+       Choices: A:img21 (Chồng 3 quyển sách (3 quyển sách / 书)), B:img14 (Điện thoại bàn màu đỏ (电话 / 打电话)), C:img20 (Bảng clapperboard đóng phim (看电影 / 电影))
+  Q27 | Ans: A | Hanzi: '我们在家里休息。'
+       Choices: A:img23 (Ngôi nhà (家 / 房子)), B:img12 (Bệnh viện có chữ thập đỏ (医院)), C:img11 (Trường học có đồng hồ (学校))
+  Q28 | Ans: A | Hanzi: '这是我家的照片。'
+       Choices: A:img15 (Khung tranh phong cảnh cây cỏ (照片 / bức ảnh)), B:img16 (Máy tính xách tay laptop (电脑)), C:img21 (Chồng 3 quyển sách (3 quyển sách / 书))
+  Q29 | Ans: A | Hanzi: '我们家有一只可爱的小狗。'
+       Choices: A:img06 (1 mặt chó đốm nâu (1 con chó, 狗)), B:img07 (1 con cá xanh (鱼)), C:img01 (1 con mèo vàng (猫))
+  Q30 | Ans: A | Hanzi: '我妈妈在医院工作。'
+       Choices: A:img12 (Bệnh viện có chữ thập đỏ (医院)), B:img13 (Ngân hàng có ký hiệu $ (银行)), C:img11 (Trường học có đồng hồ (学校))
+
+==================== EXAM 02 Section II Pick Image (06-10 and 26-30) ====================
+  Q06 | Ans: A | Hanzi: '他想坐出租车。'
+       Choices: A:img24 (Xe taxi vàng có sọc caro (出租车)), B:img25 (Xe đạp (自行车)), C:img05 (Tàu điện ngầm trong hầm (地铁))
+  Q07 | Ans: B | Hanzi: '她想买一把椅子。'
+       Choices: A:img16 (Máy tính xách tay laptop (电脑)), B:img26 (Ghế gỗ (椅子)), C:img14 (Điện thoại bàn màu đỏ (电话 / 打电话))
+  Q08 | Ans: C | Hanzi: '她喜欢坐公交车去工作。'
+       Choices: A:img25 (Xe đạp (自行车)), B:img27 (Máy bay đang bay (飞机 / 坐飞机)), C:img19 (Xe buýt (公交车 / 公共汽车))
+  Q09 | Ans: A | Hanzi: '妈妈在商店买菜。'
+       Choices: A:img28 (Cây cải thảo / rau xanh (菜 / 白菜)), B:img08 (Tách trà xanh bốc khói (茶 / 喝茶)), C:img29 (Quả táo đỏ có cuống lá (苹果))
+  Q10 | Ans: A | Hanzi: '我们一起去电影院。'
+       Choices: A:img02 (Vé xem phim (看电影 / 电影票 / 电影院)), B:img11 (Trường học có đồng hồ (学校)), C:img12 (Bệnh viện có chữ thập đỏ (医院))
+  Q26 | Ans: A | Hanzi: '他坐汽车去学校。'
+       Choices: A:img22 (Xe ô tô con màu đỏ (车 / 汽车 / 出租车)), B:img19 (Xe buýt (公交车 / 公共汽车)), C:img25 (Xe đạp (自行车))
+  Q27 | Ans: A | Hanzi: '这是我的电脑。'
+       Choices: A:img16 (Máy tính xách tay laptop (电脑)), B:img14 (Điện thoại bàn màu đỏ (电话 / 打电话)), C:img21 (Chồng 3 quyển sách (3 quyển sách / 书))
+  Q28 | Ans: A | Hanzi: '我现在要打电话。'
+       Choices: A:img14 (Điện thoại bàn màu đỏ (电话 / 打电话)), B:img16 (Máy tính xách tay laptop (电脑)), C:img03 (Nốt nhạc (听音乐 / 音乐))
+  Q29 | Ans: C | Hanzi: '弟弟喜欢吃苹果。'
+       Choices: A:img30 (Miếng thịt đỏ có xương (肉)), B:img08 (Tách trà xanh bốc khói (茶 / 喝茶)), C:img29 (Quả táo đỏ có cuống lá (苹果))
+  Q30 | Ans: C | Hanzi: '我想去商店买东西。'
+       Choices: A:img31 (Cây xanh công viên (树 / 公园)), B:img13 (Ngân hàng có ký hiệu $ (银行)), C:img32 (Cửa hàng tiện lợi 24h (商店 / 便利店))
+
+==================== EXAM 03 Section II Pick Image (06-10 and 26-30) ====================
+  Q06 | Ans: A | Hanzi: '哥哥想去买一张照片。'
+       Choices: A:img15 (Khung tranh phong cảnh cây cỏ (照片 / bức ảnh)), B:img14 (Điện thoại bàn màu đỏ (电话 / 打电话)), C:img21 (Chồng 3 quyển sách (3 quyển sách / 书))
+  Q07 | Ans: B | Hanzi: '妹妹喜欢到公园玩。'
+       Choices: A:img11 (Trường học có đồng hồ (学校)), B:img31 (Cây xanh công viên (树 / 公园)), C:img12 (Bệnh viện có chữ thập đỏ (医院))
+  Q08 | Ans: C | Hanzi: '我想去商店买东西。'
+       Choices: A:img31 (Cây xanh công viên (树 / 公园)), B:img13 (Ngân hàng có ký hiệu $ (银行)), C:img32 (Cửa hàng tiện lợi 24h (商店 / 便利店))
+  Q09 | Ans: B | Hanzi: '这是一家很好的饭店。'
+       Choices: A:img13 (Ngân hàng có ký hiệu $ (银行)), B:img34 (Tô mì ramen có trứng và đũa (面条 / 吃面条)), C:img12 (Bệnh viện có chữ thập đỏ (医院))
+  Q10 | Ans: A | Hanzi: '他坐汽车去学校。'
+       Choices: A:img22 (Xe ô tô con màu đỏ (车 / 汽车 / 出租车)), B:img19 (Xe buýt (公交车 / 公共汽车)), C:img25 (Xe đạp (自行车))
+  Q26 | Ans: A | Hanzi: '这是我的电脑。'
+       Choices: A:img16 (Máy tính xách tay laptop (电脑)), B:img21 (Chồng 3 quyển sách (3 quyển sách / 书)), C:img14 (Điện thoại bàn màu đỏ (电话 / 打电话))
+  Q27 | Ans: A | Hanzi: '我想坐公交车。'
+       Choices: A:img19 (Xe buýt (公交车 / 公共汽车)), B:img05 (Tàu điện ngầm trong hầm (地铁)), C:img24 (Xe taxi vàng có sọc caro (出租车))
+  Q28 | Ans: A | Hanzi: '我的朋友想坐飞机。'
+       Choices: A:img27 (Máy bay đang bay (飞机 / 坐飞机)), B:img24 (Xe taxi vàng có sọc caro (出租车)), C:img05 (Tàu điện ngầm trong hầm (地铁))
+  Q29 | Ans: C | Hanzi: '我的朋友喜欢喝茶。'
+       Choices: A:img09 (Ly bia bọt (啤酒 / 喝啤酒)), B:img10 (Tách cà phê nóng (咖啡 / 喝咖啡)), C:img08 (Tách trà xanh bốc khói (茶 / 喝茶))
+  Q30 | Ans: C | Hanzi: '我妈妈喜欢看书。'
+       Choices: A:img20 (Bảng clapperboard đóng phim (看电影 / 电影)), B:img14 (Điện thoại bàn màu đỏ (电话 / 打电话)), C:img21 (Chồng 3 quyển sách (3 quyển sách / 书))
+
+==================== EXAM 04 Section II Pick Image (06-10 and 26-30) ====================
+  Q06 | Ans: B | Hanzi: '她喜欢坐公交车去工作。'
+       Choices: A:img25 (Xe đạp (自行车)), B:img19 (Xe buýt (公交车 / 公共汽车)), C:img27 (Máy bay đang bay (飞机 / 坐飞机))
+  Q07 | Ans: B | Hanzi: '明天我要去学校。'
+       Choices: A:img13 (Ngân hàng có ký hiệu $ (银行)), B:img11 (Trường học có đồng hồ (学校)), C:img34 (Tô mì ramen có trứng và đũa (面条 / 吃面条))
+  Q08 | Ans: B | Hanzi: '我每天骑自行车。'
+       Choices: A:img19 (Xe buýt (公交车 / 公共汽车)), B:img25 (Xe đạp (自行车)), C:img22 (Xe ô tô con màu đỏ (车 / 汽车 / 出租车))
+  Q09 | Ans: B | Hanzi: '我家有两只狗。'
+       Choices: A:img01 (1 con mèo vàng (猫)), B:img06 (1 mặt chó đốm nâu (1 con chó, 狗)), C:img29 (Quả táo đỏ có cuống lá (苹果))
+  Q10 | Ans: B | Hanzi: '我妹妹很喜欢吃面条。'
+       Choices: A:img17 (Bát cơm trắng (米饭 / 吃饭)), B:img33 (Đĩa mì spaghetti dĩa gắp (面条 / 吃面条)), C:img30 (Miếng thịt đỏ có xương (肉))
+  Q26 | Ans: C | Hanzi: '我在公园看见一只狗。'
+       Choices: A:img01 (1 con mèo vàng (猫)), B:img07 (1 con cá xanh (鱼)), C:img06 (1 mặt chó đốm nâu (1 con chó, 狗))
+  Q27 | Ans: A | Hanzi: '妹妹喜欢到公园玩。'
+       Choices: A:img31 (Cây xanh công viên (树 / 公园)), B:img12 (Bệnh viện có chữ thập đỏ (医院)), C:img11 (Trường học có đồng hồ (学校))
+  Q28 | Ans: A | Hanzi: '我们家有一只可爱的小狗。'
+       Choices: A:img06 (1 mặt chó đốm nâu (1 con chó, 狗)), B:img01 (1 con mèo vàng (猫)), C:img07 (1 con cá xanh (鱼))
+  Q29 | Ans: A | Hanzi: '我想买几个苹果。'
+       Choices: A:img29 (Quả táo đỏ có cuống lá (苹果)), B:img07 (1 con cá xanh (鱼)), C:img08 (Tách trà xanh bốc khói (茶 / 喝茶))
+  Q30 | Ans: B | Hanzi: '他坐汽车去学校。'
+       Choices: A:img19 (Xe buýt (公交车 / 公共汽车)), B:img22 (Xe ô tô con màu đỏ (车 / 汽车 / 出租车)), C:img25 (Xe đạp (自行车))
+
+==================== EXAM 05 Section II Pick Image (06-10 and 26-30) ====================
+  Q06 | Ans: A | Hanzi: '我哥哥是老师。'
+       Choices: A:img04 (Khuôn mặt nữ tóc nâu (người nữ)), B:img13 (Ngân hàng có ký hiệu $ (银行)), C:img35 (Ống nghe y tế bác sĩ (ống nghe, stethoscope))
+  Q07 | Ans: C | Hanzi: '我想坐公交车。'
+       Choices: A:img24 (Xe taxi vàng có sọc caro (出租车)), B:img05 (Tàu điện ngầm trong hầm (地铁)), C:img19 (Xe buýt (公交车 / 公共汽车))
+  Q08 | Ans: B | Hanzi: '我妈妈在医院工作。'
+       Choices: A:img13 (Ngân hàng có ký hiệu $ (银行)), B:img12 (Bệnh viện có chữ thập đỏ (医院)), C:img11 (Trường học có đồng hồ (学校))
+  Q09 | Ans: C | Hanzi: '我们在家里休息。'
+       Choices: A:img12 (Bệnh viện có chữ thập đỏ (医院)), B:img11 (Trường học có đồng hồ (学校)), C:img23 (Ngôi nhà (家 / 房子))
+  Q10 | Ans: C | Hanzi: '我的朋友想坐飞机。'
+       Choices: A:img24 (Xe taxi vàng có sọc caro (出租车)), B:img05 (Tàu điện ngầm trong hầm (地铁)), C:img27 (Máy bay đang bay (飞机 / 坐飞机))
+  Q26 | Ans: B | Hanzi: '今天是我的生日。'
+       Choices: A:img11 (Trường học có đồng hồ (学校)), B:img18 (Bánh sinh nhật cắm 3 nến (蛋糕 / 生日)), C:img20 (Bảng clapperboard đóng phim (看电影 / 电影))
+  Q27 | Ans: B | Hanzi: '我想去公园走路。'
+       Choices: A:img24 (Xe taxi vàng có sọc caro (出租车)), B:img38 (Bé trai đang đi bộ (走路 / 走)), C:img25 (Xe đạp (自行车))
+  Q28 | Ans: B | Hanzi: '我在公园看见一只狗。'
+       Choices: A:img01 (1 con mèo vàng (猫)), B:img06 (1 mặt chó đốm nâu (1 con chó, 狗)), C:img07 (1 con cá xanh (鱼))
+  Q29 | Ans: C | Hanzi: '我现在要打电话。'
+       Choices: A:img03 (Nốt nhạc (听音乐 / 音乐)), B:img16 (Máy tính xách tay laptop (电脑)), C:img14 (Điện thoại bàn màu đỏ (电话 / 打电话))
+  Q30 | Ans: C | Hanzi: '妹妹喜欢到公园玩。'
+       Choices: A:img11 (Trường học có đồng hồ (学校)), B:img12 (Bệnh viện có chữ thập đỏ (医院)), C:img31 (Cây xanh công viên (树 / 公园))
+
+==================== EXAM 06 Section II Pick Image (06-10 and 26-30) ====================
+  Q06 | Ans: A | Hanzi: '我的生日是八月十七号。'
+       Choices: A:img18 (Bánh sinh nhật cắm 3 nến (蛋糕 / 生日)), B:img21 (Chồng 3 quyển sách (3 quyển sách / 书)), C:img11 (Trường học có đồng hồ (学校))
+  Q07 | Ans: C | Hanzi: '妈妈在商店买菜。'
+       Choices: A:img08 (Tách trà xanh bốc khói (茶 / 喝茶)), B:img29 (Quả táo đỏ có cuống lá (苹果)), C:img28 (Cây cải thảo / rau xanh (菜 / 白菜))
+  Q08 | Ans: A | Hanzi: '这是我家的照片。'
+       Choices: A:img15 (Khung tranh phong cảnh cây cỏ (照片 / bức ảnh)), B:img21 (Chồng 3 quyển sách (3 quyển sách / 书)), C:img16 (Máy tính xách tay laptop (电脑))
+  Q09 | Ans: A | Hanzi: '我想坐公交车。'
+       Choices: A:img19 (Xe buýt (公交车 / 公共汽车)), B:img05 (Tàu điện ngầm trong hầm (地铁)), C:img24 (Xe taxi vàng có sọc caro (出租车))
+  Q10 | Ans: A | Hanzi: '我爸爸在银行工作。'
+       Choices: A:img13 (Ngân hàng có ký hiệu $ (银行)), B:img12 (Bệnh viện có chữ thập đỏ (医院)), C:img11 (Trường học có đồng hồ (学校))
+  Q26 | Ans: A | Hanzi: '这个饭店离我家很近。'
+       Choices: A:img34 (Tô mì ramen có trứng và đũa (面条 / 吃面条)), B:img12 (Bệnh viện có chữ thập đỏ (医院)), C:img31 (Cây xanh công viên (树 / 公园))
+  Q27 | Ans: B | Hanzi: '我们坐地铁去。'
+       Choices: A:img24 (Xe taxi vàng có sọc caro (出租车)), B:img05 (Tàu điện ngầm trong hầm (地铁)), C:img19 (Xe buýt (公交车 / 公共汽车))
+  Q28 | Ans: A | Hanzi: '我在公园看见一只狗。'
+       Choices: A:img06 (1 mặt chó đốm nâu (1 con chó, 狗)), B:img07 (1 con cá xanh (鱼)), C:img01 (1 con mèo vàng (猫))
+  Q29 | Ans: B | Hanzi: '我现在要打电话。'
+       Choices: A:img16 (Máy tính xách tay laptop (电脑)), B:img14 (Điện thoại bàn màu đỏ (电话 / 打电话)), C:img03 (Nốt nhạc (听音乐 / 音乐))
+  Q30 | Ans: C | Hanzi: '周末我们去公园玩。'
+       Choices: A:img12 (Bệnh viện có chữ thập đỏ (医院)), B:img11 (Trường học có đồng hồ (学校)), C:img31 (Cây xanh công viên (树 / 公园))

@@ -1,0 +1,8 @@
+@tailwind base;@tailwind components;@tailwind utilities;
+body{@apply bg-cream text-ink font-sans antialiased}
+.hanzi{font-family:'Noto Sans SC','Noto Serif SC','PingFang SC','Microsoft YaHei',sans-serif}
+.pinyin{@apply text-jade-600 italic tracking-wide}
+.card{@apply bg-white rounded-card shadow-soft border border-ink/5}
+.btn{@apply inline-flex items-center gap-2 rounded-xl px-4 py-2 font-medium transition-colors disabled:opacity-40}
+.btn-primary{@apply btn bg-jade-600 text-white hover:bg-jade-700}
+.btn-ghost{@apply btn bg-white border border-ink/10 hover:bg-jade-50}

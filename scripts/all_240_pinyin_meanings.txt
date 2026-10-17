@@ -1,0 +1,240 @@
+E01-Q01 | Ans:F | 我喜欢看中国电影。 | wǒ xǐhuan kàn Zhōngguó diànyǐng. | Tôi thích xem phim Trung Quốc.
+E01-Q02 | Ans:T | 今天晚上我们看电影。 | jīntiān wǎnshang wǒ men kàn diànyǐng. | Tối nay chúng tôi xem phim.
+E01-Q03 | Ans:F | 这个周末我要去看电影。 | zhè gè zhōumò wǒ yào qù kàn diànyǐng. | Cuối tuần này tôi sẽ xem phim.
+E01-Q04 | Ans:T | 我哥哥是老师。 | wǒ gēge shì lǎoshī. | Anh trai tôi là giáo viên.
+E01-Q05 | Ans:F | 他想坐出租车。 | tā xiǎng zuò chūzūchē. | Anh ấy muốn đi taxi.
+E01-Q06 | Ans:C | 我想吃鱼。 | wǒ xiǎng chī yú. | Tôi muốn ăn cá.
+E01-Q07 | Ans:A | 我的朋友喜欢喝茶。 | wǒ de péngyou xǐhuan hē chá. | Bạn tôi thích uống trà.
+E01-Q08 | Ans:C | 我爸爸在银行工作。 | wǒ bàba zài yínháng gōngzuò. | Bố tôi làm việc ở ngân hàng.
+E01-Q09 | Ans:C | 我弟弟想去买电脑。 | wǒ dìdi xiǎng qù mǎi diànnǎo. | Em tôi muốn đi mua máy tính.
+E01-Q10 | Ans:C | 我姐姐每天早上喝茶。 | wǒ jiějie měitiān zǎoshang hē chá. | Chị tôi uống trà mỗi sáng.
+E01-Q11 | Ans:C | 这是我的电脑。 | zhè shì wǒ de diànnǎo. | Đây là máy tính của tôi.
+E01-Q12 | Ans:A | 今天是我的生日。 | jīntiān shì wǒ de shēngrì. | Hôm nay là sinh nhật tôi.
+E01-Q13 | Ans:D | 我想坐公交车。 | wǒ xiǎng zuò gōngjiāochē. | Tôi muốn đi xe buýt.
+E01-Q14 | Ans:E | 我喜欢看电影。 | wǒ xǐhuan kàn diànyǐng. | Tôi thích xem phim.
+E01-Q15 | Ans:B | 我家有一只猫。 | wǒ jiā yǒu yì zhī māo. | Nhà tôi có một con mèo.
+E01-Q16 | Ans:A | 你喜欢中国电影还是美国电影？ 我喜欢中国电影。 他喜欢什么电影？ | nǐ xǐhuan Zhōngguó diànyǐng háishi Měiguó diànyǐng? wǒ xǐhuan Zhōngguó diànyǐng. tā xǐhuan shénme diànyǐng? | Anh ấy thích phim Trung Quốc.
+E01-Q17 | Ans:B | 你想坐公交车吗？ 不，我想坐地铁。 她想坐什么车？ | nǐ xiǎng zuò gōngjiāochē ma? bù, wǒ xiǎng zuò dìtiě. tā xiǎng zuò shénme chē? | Cô ấy muốn đi tàu điện ngầm.
+E01-Q18 | Ans:B | 你有几只猫？ 我有两只猫。 她有几只猫？ | nǐ yǒu jǐ zhī māo? wǒ yǒu liǎng zhī māo. tā yǒu jǐ zhī māo? | Cô ấy có hai con mèo.
+E01-Q19 | Ans:A | 你哥哥今年多大？ 他今年二十岁。 哥哥今年几岁？ | nǐ gēge jīnnián duō dà? tā jīnnián èr shí suì. gēge jīnnián jǐ suì? | Anh trai năm nay 20 tuổi.
+E01-Q20 | Ans:B | 你妈妈做什么工作？ 她是医生。 妈妈做什么工作？ | nǐ māma zuò shénme gōngzuò? tā shì yīshēng. māma zuò shénme gōngzuò? | Mẹ làm bác sĩ.
+E01-Q21 | Ans:T | 我哥哥喜欢听音乐。 | wǒ gēge xǐhuan tīng yīnyuè. | Anh trai tôi thích nghe nhạc.
+E01-Q22 | Ans:F | 我家有两只狗。 | wǒ jiā yǒu liǎng zhī gǒu. | Nhà tôi có hai con chó.
+E01-Q23 | Ans:T | 他想买一本书。 | tā xiǎng mǎi yī běn shū. | Anh ấy muốn mua một quyển sách.
+E01-Q24 | Ans:F | 我每天骑自行车。 | wǒ měitiān qí zìxíngchē. | Tôi đạp xe mỗi ngày.
+E01-Q25 | Ans:T | 他坐汽车去学校。 | tā zuò qì chē qù xuéxiào. | Anh ấy đi ô tô đến trường.
+E01-Q26 | Ans:A | 我妈妈喜欢看书。 | wǒ māma xǐhuan kàn shū. | Mẹ tôi thích đọc sách.
+E01-Q27 | Ans:A | 我们在家里休息。 | wǒ men zài jiālǐ xiūxi. | Chúng tôi nghỉ ngơi ở nhà.
+E01-Q28 | Ans:A | 这是我家的照片。 | zhè shì wǒ jiā de zhàopiàn. | Đây là ảnh gia đình tôi.
+E01-Q29 | Ans:A | 我们家有一只可爱的小狗。 | wǒ men jiā yǒu yì zhī kěài de xiǎo gǒu. | Nhà tôi có một chú chó đáng yêu.
+E01-Q30 | Ans:A | 我妈妈在医院工作。 | wǒ māma zài yīyuàn gōngzuò. | Mẹ tôi làm việc ở bệnh viện.
+E01-Q31 | Ans:E | 你喜欢看什么电影？ | nǐ xǐhuan kàn shénme diànyǐng? | Nối câu hỏi với câu trả lời phù hợp.
+E01-Q32 | Ans:C | 你家有几口人？ | nǐ jiā yǒu jǐ kǒu rén? | Nối câu hỏi với câu trả lời phù hợp.
+E01-Q33 | Ans:A | 你姐姐今年多大？ | nǐ jiějie jīnnián duō dà? | Nối câu hỏi với câu trả lời phù hợp.
+E01-Q34 | Ans:D | 这是你的照片吗？ | zhè shì nǐ de zhàopiàn ma? | Nối câu hỏi với câu trả lời phù hợp.
+E01-Q35 | Ans:B | 你喜欢猫还是狗？ | nǐ xǐhuan māo háishi gǒu? | Nối câu hỏi với câu trả lời phù hợp.
+E01-Q36 | Ans:C | 我很______看中国电影。 | wǒ hěn _ _ _ _ _ _ kàn Zhōngguó diànyǐng. | Tôi rất thích xem phim Trung Quốc.
+E01-Q37 | Ans:E | 你家有几______人？ | nǐ jiā yǒu jǐ _ _ _ _ _ _ rén? | Gia đình bạn có mấy người?
+E01-Q38 | Ans:F | 他今年二十______。 | tā jīnnián èr shí _ _ _ _ _ _. | Anh ấy năm nay 20 tuổi.
+E01-Q39 | Ans:B | 我有两______小猫。 | wǒ yǒu liǎng _ _ _ _ _ _ xiǎo māo. | Tôi có hai con mèo con.
+E01-Q40 | Ans:A | 这是我姐姐的______。 | zhè shì wǒ jiějie de _ _ _ _ _ _. | Đây là ảnh của chị gái tôi.
+E02-Q01 | Ans:T | 我中午吃米饭。 | wǒ zhōng wǔ chī mǐfàn. | Buổi trưa tôi ăn cơm.
+E02-Q02 | Ans:F | 周末我们去公园玩。 | zhōumò wǒ men qù gōngyuán wán. | Cuối tuần chúng tôi đến công viên chơi.
+E02-Q03 | Ans:T | 我的朋友喜欢喝茶。 | wǒ de péngyou xǐhuan hē chá. | Bạn tôi thích uống trà.
+E02-Q04 | Ans:F | 我们坐地铁去。 | wǒ men zuò dìtiě qù. | Chúng tôi đi tàu điện ngầm.
+E02-Q05 | Ans:T | 今天是我的生日。 | jīntiān shì wǒ de shēngrì. | Hôm nay là sinh nhật tôi.
+E02-Q06 | Ans:A | 他想坐出租车。 | tā xiǎng zuò chūzūchē. | Anh ấy muốn đi taxi.
+E02-Q07 | Ans:B | 她想买一把椅子。 | tā xiǎng mǎi yī bǎ yǐzi. | Cô ấy muốn mua một chiếc ghế.
+E02-Q08 | Ans:C | 她喜欢坐公交车去工作。 | tā xǐhuan zuò gōngjiāochē qù gōngzuò. | Cô ấy thích đi xe buýt đến chỗ làm.
+E02-Q09 | Ans:A | 妈妈在商店买菜。 | māma zài shāngdiàn mǎi cài. | Mẹ mua rau tại cửa hàng.
+E02-Q10 | Ans:A | 我们一起去电影院。 | wǒ men yìqǐ qù diànyǐngyuàn. | Chúng tôi cùng đến rạp chiếu phim.
+E02-Q11 | Ans:D | 我想坐公交车。 | wǒ xiǎng zuò gōngjiāochē. | Tôi muốn đi xe buýt.
+E02-Q12 | Ans:E | 这是我姐姐的照片。 | zhè shì wǒ jiějie de zhàopiàn. | Đây là ảnh của chị gái tôi.
+E02-Q13 | Ans:B | 弟弟喜欢狗。 | dìdi xǐhuan gǒu. | Em trai thích chó.
+E02-Q14 | Ans:A | 我喜欢看电影。 | wǒ xǐhuan kàn diànyǐng. | Tôi thích xem phim.
+E02-Q15 | Ans:C | 我妈妈在医院工作。 | wǒ māma zài yīyuàn gōngzuò. | Mẹ tôi làm việc ở bệnh viện.
+E02-Q16 | Ans:A | 这个星期天你去哪里？ 我去电影院。 星期天他去哪里？ | zhè gè xīngqī tiān nǐ qù nǎlǐ? wǒ qù diànyǐngyuàn. xīngqī tiān tā qù nǎlǐ? | Chủ nhật anh ấy đến rạp chiếu phim.
+E02-Q17 | Ans:C | 你家有几口人？ 我家有四口人。 他家有几口人？ | nǐ jiā yǒu jǐ kǒu rén? wǒ jiā yǒu sì kǒu rén. tā jiā yǒu jǐ kǒu rén? | Gia đình anh ấy có bốn người.
+E02-Q18 | Ans:B | 这是谁的照片？ 这是我妹妹的照片。 这是谁的照片？ | zhè shì shéi de zhàopiàn? zhè shì wǒ mèimei de zhàopiàn. zhè shì shéi de zhàopiàn? | Đây là ảnh em gái.
+E02-Q19 | Ans:A | 你晚上做什么？ 我听音乐。 他晚上做什么？ | nǐ wǎnshang zuò shénme? wǒ tīng yīnyuè. tā wǎnshang zuò shénme? | Anh ấy nghe nhạc buổi tối.
+E02-Q20 | Ans:C | 你姐姐是老师吗？ 不是，她是律师。 姐姐是做什么的？ | nǐ jiějie shì lǎoshī ma? bú shì, tā shì lǜshī. jiějie shì zuò shénme de? | Chị gái là luật sư.
+E02-Q21 | Ans:F | 哥哥想去买一张照片。 | gēge xiǎng qù mǎi yì zhāng zhàopiàn. | Anh trai muốn mua một tấm ảnh.
+E02-Q22 | Ans:T | 我家有两只狗。 | wǒ jiā yǒu liǎng zhī gǒu. | Nhà tôi có hai con chó.
+E02-Q23 | Ans:F | 我喜欢看中国电影。 | wǒ xǐhuan kàn Zhōngguó diànyǐng. | Tôi thích xem phim Trung Quốc.
+E02-Q24 | Ans:T | 她喜欢喝咖啡。 | tā xǐhuan hē kāfēi. | Cô ấy thích uống cà phê.
+E02-Q25 | Ans:F | 他想买一本书。 | tā xiǎng mǎi yī běn shū. | Anh ấy muốn mua một quyển sách.
+E02-Q26 | Ans:A | 他坐汽车去学校。 | tā zuò qì chē qù xuéxiào. | Anh ấy đi ô tô đến trường.
+E02-Q27 | Ans:A | 这是我的电脑。 | zhè shì wǒ de diànnǎo. | Đây là máy tính của tôi.
+E02-Q28 | Ans:A | 我现在要打电话。 | wǒ xiànzài yào dǎ diànhuà. | Bây giờ tôi phải gọi điện.
+E02-Q29 | Ans:C | 弟弟喜欢吃苹果。 | dìdi xǐhuan chī píngguǒ. | Em trai thích ăn táo.
+E02-Q30 | Ans:C | 我想去商店买东西。 | wǒ xiǎng qù shāngdiàn mǎi dōngxi. | Tôi muốn đến cửa hàng mua đồ.
+E02-Q31 | Ans:A | 你妈妈做什么工作？ | nǐ māma zuò shénme gōngzuò? | Nối câu hỏi với câu trả lời phù hợp.
+E02-Q32 | Ans:C | 你为什么不坐出租车？ | nǐ wèishénme bú zuò chūzūchē? | Nối câu hỏi với câu trả lời phù hợp.
+E02-Q33 | Ans:B | 你想怎么去电影院？ | nǐ xiǎng zěnme qù diànyǐngyuàn? | Nối câu hỏi với câu trả lời phù hợp.
+E02-Q34 | Ans:D | 你的妹妹可爱吗？ | nǐ de mèimei kěài ma? | Nối câu hỏi với câu trả lời phù hợp.
+E02-Q35 | Ans:E | 你哥哥在哪里工作？ | nǐ gēge zài nǎlǐ gōngzuò? | Nối câu hỏi với câu trả lời phù hợp.
+E02-Q36 | Ans:A | 我想______地铁去。 | wǒ xiǎng _ _ _ _ _ _ dìtiě qù. | Tôi muốn đi tàu điện ngầm.
+E02-Q37 | Ans:B | 她______漂亮又聪明。 | tā _ _ _ _ _ _ piàoliang yòu cōngmíng. | Cô ấy vừa đẹp vừa thông minh. (Từ cần điền: 又)
+E02-Q38 | Ans:D | ______出租车很贵，所以我坐公交车。 | _ _ _ _ _ _ chūzūchē hěn guì, suǒyǐ wǒ zuò gōngjiāochē. | Vì taxi đắt nên tôi đi xe buýt.
+E02-Q39 | Ans:C | 我晚上喜欢______音乐。 | wǒ wǎnshang xǐhuan _ _ _ _ _ _ yīn lè. | Tôi thích nghe nhạc buổi tối.
+E02-Q40 | Ans:F | 这是我的______，他今年十八岁。 | zhè shì wǒ de _ _ _ _ _ _, tā jīnnián shí bā suì. | Đây là em trai tôi, năm nay 18 tuổi.
+E03-Q01 | Ans:F | 我中午吃米饭。 | wǒ zhōng wǔ chī mǐfàn. | Buổi trưa tôi ăn cơm.
+E03-Q02 | Ans:T | 我妹妹很喜欢吃面条。 | wǒ mèimei hěn xǐhuan chī miàntiáo. | Em gái tôi rất thích ăn mì.
+E03-Q03 | Ans:F | 妈妈在商店买菜。 | māma zài shāngdiàn mǎi cài. | Mẹ mua rau tại cửa hàng.
+E03-Q04 | Ans:T | 我家有两只狗。 | wǒ jiā yǒu liǎng zhī gǒu. | Nhà tôi có hai con chó.
+E03-Q05 | Ans:F | 我们坐地铁去。 | wǒ men zuò dìtiě qù. | Chúng tôi đi tàu điện ngầm.
+E03-Q06 | Ans:A | 哥哥想去买一张照片。 | gēge xiǎng qù mǎi yì zhāng zhàopiàn. | Anh trai muốn mua một tấm ảnh.
+E03-Q07 | Ans:B | 妹妹喜欢到公园玩。 | mèimei xǐhuan dào gōngyuán wán. | Em gái thích đến công viên chơi.
+E03-Q08 | Ans:C | 我想去商店买东西。 | wǒ xiǎng qù shāngdiàn mǎi dōngxi. | Tôi muốn đến cửa hàng mua đồ.
+E03-Q09 | Ans:B | 这是一家很好的饭店。 | zhè shì yì jiā hěn hǎo de fàndiàn. | Đây là một nhà hàng rất tốt.
+E03-Q10 | Ans:A | 他坐汽车去学校。 | tā zuò qì chē qù xuéxiào. | Anh ấy đi ô tô đến trường.
+E03-Q11 | Ans:C | 这是我姐姐的照片。 | zhè shì wǒ jiějie de zhàopiàn. | Đây là ảnh của chị gái tôi.
+E03-Q12 | Ans:E | 我们坐地铁去学校。 | wǒ men zuò dìtiě qù xuéxiào. | Chúng tôi đi tàu điện ngầm đến trường.
+E03-Q13 | Ans:D | 弟弟喜欢狗。 | dìdi xǐhuan gǒu. | Em trai thích chó.
+E03-Q14 | Ans:A | 我喜欢吃苹果。 | wǒ xǐhuan chī píngguǒ. | Tôi thích ăn táo.
+E03-Q15 | Ans:B | 我喜欢听音乐。 | wǒ xǐhuan tīng yīnyuè. | Tôi thích nghe nhạc.
+E03-Q16 | Ans:B | 你喜欢喝咖啡吗？ 不，我喜欢喝茶。 他喜欢喝什么？ | nǐ xǐhuan hē kāfēi ma? bù, wǒ xǐhuan hē chá. tā xǐhuan hē shénme? | Anh ấy thích uống trà.
+E03-Q17 | Ans:A | 你为什么不坐出租车？ 因为出租车太贵了。 他为什么不坐出租车？ | nǐ wèishénme bú zuò chūzūchē? yīnwèi chūzūchē tài guì le. tā wèishénme bú zuò chūzūchē? | Vì taxi quá đắt.
+E03-Q18 | Ans:B | 今天你有空儿吗？ 没有，我要去工作。 她今天要做什么？ | jīntiān nǐ yǒu kòngr ma? méiyǒu, wǒ yào qù gōngzuò. tā jīntiān yào zuò shénme? | Cô ấy phải đi làm.
+E03-Q19 | Ans:C | 你弟弟喜欢什么动物？ 他喜欢狗。 弟弟喜欢什么？ | nǐ dìdi xǐhuan shénme dòng wù? tā xǐhuan gǒu. dìdi xǐhuan shénme? | Em trai thích chó.
+E03-Q20 | Ans:A | 明天你去商店吗？ 去，我要买电脑。 她要买什么？ | míngtiān nǐ qù shāngdiàn ma? qù, wǒ yào mǎi diànnǎo. tā yào mǎi shénme? | Cô ấy định mua máy tính.
+E03-Q21 | Ans:T | 我的妹妹喜欢小猫。 | wǒ de mèimei xǐhuan xiǎo māo. | Em gái tôi thích mèo con.
+E03-Q22 | Ans:F | 这是我家的照片。 | zhè shì wǒ jiā de zhàopiàn. | Đây là ảnh gia đình tôi.
+E03-Q23 | Ans:T | 我弟弟想去买电脑。 | wǒ dìdi xiǎng qù mǎi diànnǎo. | Em tôi muốn đi mua máy tính.
+E03-Q24 | Ans:F | 她喜欢坐公交车去工作。 | tā xǐhuan zuò gōngjiāochē qù gōngzuò. | Cô ấy thích đi xe buýt đến chỗ làm.
+E03-Q25 | Ans:T | 弟弟在学校学习。 | dìdi zài xuéxiào xué xí. | Em trai đang học ở trường.
+E03-Q26 | Ans:A | 这是我的电脑。 | zhè shì wǒ de diànnǎo. | Đây là máy tính của tôi.
+E03-Q27 | Ans:A | 我想坐公交车。 | wǒ xiǎng zuò gōngjiāochē. | Tôi muốn đi xe buýt.
+E03-Q28 | Ans:A | 我的朋友想坐飞机。 | wǒ de péngyou xiǎng zuò fēijī. | Bạn tôi muốn đi máy bay.
+E03-Q29 | Ans:C | 我的朋友喜欢喝茶。 | wǒ de péngyou xǐhuan hē chá. | Bạn tôi thích uống trà.
+E03-Q30 | Ans:C | 我妈妈喜欢看书。 | wǒ māma xǐhuan kàn shū. | Mẹ tôi thích đọc sách.
+E03-Q31 | Ans:D | 今天晚上你有空儿吗？ | jīntiān wǎnshang nǐ yǒu kòngr ma? | Nối câu hỏi với câu trả lời phù hợp.
+E03-Q32 | Ans:A | 你喜欢听音乐吗？ | nǐ xǐhuan tīng yīnyuè ma? | Nối câu hỏi với câu trả lời phù hợp.
+E03-Q33 | Ans:E | 你家有几只猫？ | nǐ jiā yǒu jǐ zhī māo? | Nối câu hỏi với câu trả lời phù hợp.
+E03-Q34 | Ans:B | 她是你的姐姐吗？ | tā shì nǐ de jiějie ma? | Nối câu hỏi với câu trả lời phù hợp.
+E03-Q35 | Ans:C | 你想买什么东西？ | nǐ xiǎng mǎi shénme dōngxi? | Nối câu hỏi với câu trả lời phù hợp.
+E03-Q36 | Ans:A | 妈妈在医院做______。 | māma zài yīyuàn zuò _ _ _ _ _ _. | Mẹ làm bác sĩ ở bệnh viện.
+E03-Q37 | Ans:E | 今天晚上我们去______看电影。 | jīntiān wǎnshang wǒ men qù _ _ _ _ _ _ kàn diànyǐng. | Tối nay chúng ta đến rạp xem phim.
+E03-Q38 | Ans:F | 我家有一______很可爱的小狗。 | wǒ jiā yǒu yī _ _ _ _ _ _ hěn kěài de xiǎo gǒu. | Nhà tôi có một chú chó rất dễ thương.
+E03-Q39 | Ans:B | 我想去______买东西。 | wǒ xiǎng qù _ _ _ _ _ _ mǎi dōngxi. | Tôi muốn đến cửa hàng mua đồ.
+E03-Q40 | Ans:C | 她喜欢在家______汉字。 | tā xǐhuan zài jiā _ _ _ _ _ _ Hànzì. | Cô ấy thích viết chữ Hán ở nhà.
+E04-Q01 | Ans:T | 我弟弟想去买电脑。 | wǒ dìdi xiǎng qù mǎi diànnǎo. | Em tôi muốn đi mua máy tính.
+E04-Q02 | Ans:F | 我的朋友想坐飞机。 | wǒ de péngyou xiǎng zuò fēijī. | Bạn tôi muốn đi máy bay.
+E04-Q03 | Ans:T | 弟弟喜欢吃苹果。 | dìdi xǐhuan chī píngguǒ. | Em trai thích ăn táo.
+E04-Q04 | Ans:F | 我们在家里休息。 | wǒ men zài jiālǐ xiūxi. | Chúng tôi nghỉ ngơi ở nhà.
+E04-Q05 | Ans:T | 我姐姐是医生。 | wǒ jiějie shì yīshēng. | Chị tôi là bác sĩ.
+E04-Q06 | Ans:B | 她喜欢坐公交车去工作。 | tā xǐhuan zuò gōngjiāochē qù gōngzuò. | Cô ấy thích đi xe buýt đến chỗ làm.
+E04-Q07 | Ans:B | 明天我要去学校。 | míngtiān wǒ yào qù xuéxiào. | Ngày mai tôi sẽ đến trường.
+E04-Q08 | Ans:B | 我每天骑自行车。 | wǒ měitiān qí zìxíngchē. | Tôi đạp xe mỗi ngày.
+E04-Q09 | Ans:B | 我家有两只狗。 | wǒ jiā yǒu liǎng zhī gǒu. | Nhà tôi có hai con chó.
+E04-Q10 | Ans:B | 我妹妹很喜欢吃面条。 | wǒ mèimei hěn xǐhuan chī miàntiáo. | Em gái tôi rất thích ăn mì.
+E04-Q11 | Ans:D | 我家有一只猫。 | wǒ jiā yǒu yì zhī māo. | Nhà tôi có một con mèo.
+E04-Q12 | Ans:A | 我喜欢看电影。 | wǒ xǐhuan kàn diànyǐng. | Tôi thích xem phim.
+E04-Q13 | Ans:E | 弟弟喜欢狗。 | dìdi xǐhuan gǒu. | Em trai thích chó.
+E04-Q14 | Ans:B | 我想喝咖啡。 | wǒ xiǎng hē kāfēi. | Tôi muốn uống cà phê.
+E04-Q15 | Ans:C | 我们坐地铁去学校。 | wǒ men zuò dìtiě qù xuéxiào. | Chúng tôi đi tàu điện ngầm đến trường.
+E04-Q16 | Ans:B | 你在哪儿工作？ 我在北京工作。 他在哪儿工作？ | nǐ zài nǎr gōngzuò? wǒ zài Běijīng gōngzuò. tā zài nǎr gōngzuò? | Anh ấy làm việc ở Bắc Kinh.
+E04-Q17 | Ans:B | 从这里到银行怎么走？ 先往左拐，然后一直走。 先怎么走？ | cóng zhè lǐ dào yínháng zěnme zǒu? xiān wǎng zuǒ guǎi, ránhòu yīzhí zǒu. xiān zěnme zǒu? | Rẽ trái trước.
+E04-Q18 | Ans:B | 你的生日是几月几号？ 八月十七号。 她什么时候生日？ | nǐ de shēngrì shì jǐ yuè jǐ hào? bā yuè shí qī hào. tā shénme shíhou shēngrì? | Sinh nhật ngày 17 tháng 8.
+E04-Q19 | Ans:A | 你周末有空儿吗？ 有，我们去看电影吧。 他们周末做什么？ | nǐ zhōumò yǒu kòngr ma? yǒu, wǒ men qù kàn diànyǐng ba. tā men zhōumò zuò shénme? | Họ đi xem phim cuối tuần.
+E04-Q20 | Ans:C | 你怎么去学校？ 我每天走路去。 他怎么去学校？ | nǐ zěnme qù xuéxiào? wǒ měitiān zǒulù qù. tā zěnme qù xuéxiào? | Anh ấy đi bộ tới trường.
+E04-Q21 | Ans:F | 附近有一家银行。 | fùjìn yǒu yì jiā yínháng. | Gần đây có một ngân hàng.
+E04-Q22 | Ans:T | 我爸爸在银行工作。 | wǒ bàba zài yínháng gōngzuò. | Bố tôi làm việc ở ngân hàng.
+E04-Q23 | Ans:F | 我想吃水果。 | wǒ xiǎng chī shuǐ guǒ. | Tôi muốn ăn trái cây.
+E04-Q24 | Ans:T | 哥哥想去买一张照片。 | gēge xiǎng qù mǎi yì zhāng zhàopiàn. | Anh trai muốn mua một tấm ảnh.
+E04-Q25 | Ans:F | 我们去超市买东西。 | wǒ men qù chāoshì mǎi dōngxi. | Chúng tôi đi siêu thị mua đồ.
+E04-Q26 | Ans:C | 我在公园看见一只狗。 | wǒ zài gōngyuán kànjiàn yì zhī gǒu. | Tôi nhìn thấy một con chó ở công viên.
+E04-Q27 | Ans:A | 妹妹喜欢到公园玩。 | mèimei xǐhuan dào gōngyuán wán. | Em gái thích đến công viên chơi.
+E04-Q28 | Ans:A | 我们家有一只可爱的小狗。 | wǒ men jiā yǒu yì zhī kěài de xiǎo gǒu. | Nhà tôi có một chú chó đáng yêu.
+E04-Q29 | Ans:A | 我想买几个苹果。 | wǒ xiǎng mǎi jǐ gè píngguǒ. | Tôi muốn mua vài quả táo.
+E04-Q30 | Ans:B | 他坐汽车去学校。 | tā zuò qì chē qù xuéxiào. | Anh ấy đi ô tô đến trường.
+E04-Q31 | Ans:E | 你在哪儿学习汉语？ | nǐ zài nǎr xué xí Hànyǔ? | Nối câu hỏi với câu trả lời phù hợp.
+E04-Q32 | Ans:D | 请问，银行在哪儿？ | qǐng wèn, yínháng zài nǎr? | Nối câu hỏi với câu trả lời phù hợp.
+E04-Q33 | Ans:B | 从这里到学校怎么走？ | cóng zhè lǐ dào xuéxiào zěnme zǒu? | Nối câu hỏi với câu trả lời phù hợp.
+E04-Q34 | Ans:C | 你的生日是几月几号？ | nǐ de shēngrì shì jǐ yuè jǐ hào? | Nối câu hỏi với câu trả lời phù hợp.
+E04-Q35 | Ans:A | 今天星期几？ | jīntiān xīngqī jǐ? | Nối câu hỏi với câu trả lời phù hợp.
+E04-Q36 | Ans:A | 我在北京______汉语。 | wǒ zài Běijīng _ _ _ _ _ _ Hànyǔ. | Tôi học tiếng Trung ở Bắc Kinh.
+E04-Q37 | Ans:C | 我爸爸在上海______。 | wǒ bàba zài Shànghǎi _ _ _ _ _ _. | Bố tôi làm việc ở Thượng Hải.
+E04-Q38 | Ans:D | 书店在银行______。 | shūdiàn zài yínháng _ _ _ _ _ _. | Nhà sách ở cạnh ngân hàng.
+E04-Q39 | Ans:B | 请问，附近有______吗？ | qǐng wèn, fùjìn yǒu _ _ _ _ _ _ ma? | Xin hỏi, gần đây có ngân hàng không?
+E04-Q40 | Ans:F | ______这里到饭店怎么走？ | _ _ _ _ _ _ zhè lǐ dào fàndiàn zěnme zǒu? | Đi từ đây đến nhà hàng thế nào?
+E05-Q01 | Ans:F | 我想去商店买东西。 | wǒ xiǎng qù shāngdiàn mǎi dōngxi. | Tôi muốn đến cửa hàng mua đồ.
+E05-Q02 | Ans:T | 我想吃水果。 | wǒ xiǎng chī shuǐ guǒ. | Tôi muốn ăn trái cây.
+E05-Q03 | Ans:F | 弟弟喜欢吃苹果。 | dìdi xǐhuan chī píngguǒ. | Em trai thích ăn táo.
+E05-Q04 | Ans:T | 她喜欢坐公交车去工作。 | tā xǐhuan zuò gōngjiāochē qù gōngzuò. | Cô ấy thích đi xe buýt đến chỗ làm.
+E05-Q05 | Ans:F | 这是我家的照片。 | zhè shì wǒ jiā de zhàopiàn. | Đây là ảnh gia đình tôi.
+E05-Q06 | Ans:A | 我哥哥是老师。 | wǒ gēge shì lǎoshī. | Anh trai tôi là giáo viên.
+E05-Q07 | Ans:C | 我想坐公交车。 | wǒ xiǎng zuò gōngjiāochē. | Tôi muốn đi xe buýt.
+E05-Q08 | Ans:B | 我妈妈在医院工作。 | wǒ māma zài yīyuàn gōngzuò. | Mẹ tôi làm việc ở bệnh viện.
+E05-Q09 | Ans:C | 我们在家里休息。 | wǒ men zài jiālǐ xiūxi. | Chúng tôi nghỉ ngơi ở nhà.
+E05-Q10 | Ans:C | 我的朋友想坐飞机。 | wǒ de péngyou xiǎng zuò fēijī. | Bạn tôi muốn đi máy bay.
+E05-Q11 | Ans:C | 我喜欢喝茶。 | wǒ xǐhuan hē chá. | Tôi thích uống trà.
+E05-Q12 | Ans:E | 我们走路去学校。 | wǒ men zǒulù qù xuéxiào. | Chúng tôi đi bộ đến trường.
+E05-Q13 | Ans:D | 爸爸在公司工作。 | bàba zài gōngsī gōngzuò. | Bố làm việc ở công ty.
+E05-Q14 | Ans:A | 弟弟喜欢狗。 | dìdi xǐhuan gǒu. | Em trai thích chó.
+E05-Q15 | Ans:B | 我喜欢看电影。 | wǒ xǐhuan kàn diànyǐng. | Tôi thích xem phim.
+E05-Q16 | Ans:B | 你喜欢吃什么？ 我喜欢吃牛肉。 她喜欢吃什么？ | nǐ xǐhuan chī shénme? wǒ xǐhuan chī niúròu. tā xǐhuan chī shénme? | Cô ấy thích ăn thịt bò.
+E05-Q17 | Ans:B | 你爸爸在大学教什么？ 他教英语。 爸爸教什么？ | nǐ bàba zài dàxué jiāo shénme? tā jiāo Yīngyǔ. bàba jiāo shénme? | Bố dạy tiếng Anh.
+E05-Q18 | Ans:C | 你想坐出租车吗？ 不，我想坐公交车。 他想坐什么？ | nǐ xiǎng zuò chūzūchē ma? bù, wǒ xiǎng zuò gōngjiāochē. tā xiǎng zuò shénme? | Anh ấy muốn đi xe buýt.
+E05-Q19 | Ans:A | 这家饭店远吗？ 不远，就在学校旁边。 饭店在哪里？ | zhè jiā fàndiàn yuǎn ma? bù yuǎn, jiù zài xuéxiào pángbiān. fàndiàn zài nǎlǐ? | Nhà hàng cạnh trường.
+E05-Q20 | Ans:C | 你想喝茶还是咖啡？ 我想喝茶。 她想喝什么？ | nǐ xiǎng hē chá háishi kāfēi? wǒ xiǎng hē chá. tā xiǎng hē shénme? | Cô ấy muốn uống trà.
+E05-Q21 | Ans:T | 今天星期五。 | jīntiān xīngqī wǔ. | Hôm nay là thứ sáu.
+E05-Q22 | Ans:F | 她喜欢喝咖啡。 | tā xǐhuan hē kāfēi. | Cô ấy thích uống cà phê.
+E05-Q23 | Ans:T | 我的生日是八月十七号。 | wǒ de shēngrì shì bā yuè shí qī hào. | Sinh nhật tôi là 17 tháng 8.
+E05-Q24 | Ans:F | 我们去四川饭店吃面条。 | wǒ men qù sì chuān fàndiàn chī miàntiáo. | Chúng tôi đi nhà hàng Tứ Xuyên ăn mì.
+E05-Q25 | Ans:T | 他想坐出租车。 | tā xiǎng zuò chūzūchē. | Anh ấy muốn đi taxi.
+E05-Q26 | Ans:B | 今天是我的生日。 | jīntiān shì wǒ de shēngrì. | Hôm nay là sinh nhật tôi.
+E05-Q27 | Ans:B | 我想去公园走路。 | wǒ xiǎng qù gōngyuán zǒulù. | Tôi muốn đi bộ trong công viên.
+E05-Q28 | Ans:B | 我在公园看见一只狗。 | wǒ zài gōngyuán kànjiàn yì zhī gǒu. | Tôi nhìn thấy một con chó ở công viên.
+E05-Q29 | Ans:C | 我现在要打电话。 | wǒ xiànzài yào dǎ diànhuà. | Bây giờ tôi phải gọi điện.
+E05-Q30 | Ans:C | 妹妹喜欢到公园玩。 | mèimei xǐhuan dào gōngyuán wán. | Em gái thích đến công viên chơi.
+E05-Q31 | Ans:C | 你想吃什么？ | nǐ xiǎng chī shénme? | Nối câu hỏi với câu trả lời phù hợp.
+E05-Q32 | Ans:A | 你为什么不去公园？ | nǐ wèishénme bú qù gōngyuán? | Nối câu hỏi với câu trả lời phù hợp.
+E05-Q33 | Ans:D | 你家离学校远吗？ | nǐ jiā lí xuéxiào yuǎn ma? | Nối câu hỏi với câu trả lời phù hợp.
+E05-Q34 | Ans:B | 周末你想做什么？ | zhōumò nǐ xiǎng zuò shénme? | Nối câu hỏi với câu trả lời phù hợp.
+E05-Q35 | Ans:E | 你明天有空儿吗？ | nǐ míngtiān yǒu kòngr ma? | Nối câu hỏi với câu trả lời phù hợp.
+E05-Q36 | Ans:F | 你______往左拐，然后一直走。 | nǐ _ _ _ _ _ _ wǎng zuǒ guǎi, ránhòu yīzhí zǒu. | Bạn rẽ trái trước rồi đi thẳng.
+E05-Q37 | Ans:D | 我家______学校很近。 | wǒ jiā _ _ _ _ _ _ xuéxiào hěn jìn. | Nhà tôi gần trường.
+E05-Q38 | Ans:E | 今天是星期______。 | jīntiān shì xīngqī _ _ _ _ _ _. | Hôm nay là thứ sáu.
+E05-Q39 | Ans:A | 你的______是几月几号？ | nǐ de _ _ _ _ _ _ shì jǐ yuè jǐ hào? | Sinh nhật bạn ngày mấy tháng mấy?
+E05-Q40 | Ans:C | 你明天有______吗？ | nǐ míngtiān yǒu _ _ _ _ _ _ ma? | Ngày mai bạn có rảnh không?
+E06-Q01 | Ans:T | 我中午吃米饭。 | wǒ zhōng wǔ chī mǐfàn. | Buổi trưa tôi ăn cơm.
+E06-Q02 | Ans:F | 爸爸每天在公司工作。 | bàba měitiān zài gōngsī gōngzuò. | Bố làm việc tại công ty mỗi ngày.
+E06-Q03 | Ans:T | 我们去超市买东西。 | wǒ men qù chāoshì mǎi dōngxi. | Chúng tôi đi siêu thị mua đồ.
+E06-Q04 | Ans:F | 他从学校骑车回家。 | tā cóng xuéxiào qí chē huí jiā. | Anh ấy đạp xe từ trường về nhà.
+E06-Q05 | Ans:T | 明天我要去学校。 | míngtiān wǒ yào qù xuéxiào. | Ngày mai tôi sẽ đến trường.
+E06-Q06 | Ans:A | 我的生日是八月十七号。 | wǒ de shēngrì shì bā yuè shí qī hào. | Sinh nhật tôi là 17 tháng 8.
+E06-Q07 | Ans:C | 妈妈在商店买菜。 | māma zài shāngdiàn mǎi cài. | Mẹ mua rau tại cửa hàng.
+E06-Q08 | Ans:A | 这是我家的照片。 | zhè shì wǒ jiā de zhàopiàn. | Đây là ảnh gia đình tôi.
+E06-Q09 | Ans:A | 我想坐公交车。 | wǒ xiǎng zuò gōngjiāochē. | Tôi muốn đi xe buýt.
+E06-Q10 | Ans:A | 我爸爸在银行工作。 | wǒ bàba zài yínháng gōngzuò. | Bố tôi làm việc ở ngân hàng.
+E06-Q11 | Ans:B | 我喜欢听音乐。 | wǒ xǐhuan tīng yīnyuè. | Tôi thích nghe nhạc.
+E06-Q12 | Ans:C | 我去商店买东西。 | wǒ qù shāngdiàn mǎi dōngxi. | Tôi đi cửa hàng mua đồ.
+E06-Q13 | Ans:D | 我喜欢喝茶。 | wǒ xǐhuan hē chá. | Tôi thích uống trà.
+E06-Q14 | Ans:A | 爸爸在公司工作。 | bàba zài gōngsī gōngzuò. | Bố làm việc ở công ty.
+E06-Q15 | Ans:E | 这是我姐姐的照片。 | zhè shì wǒ jiějie de zhàopiàn. | Đây là ảnh của chị gái tôi.
+E06-Q16 | Ans:A | 你今天晚上有事吗？ 有，我要学习汉语。 他晚上做什么？ | nǐ jīntiān wǎnshang yǒu shì ma? yǒu, wǒ yào xué xí Hànyǔ. tā wǎnshang zuò shénme? | Anh ấy học tiếng Trung tối nay.
+E06-Q17 | Ans:B | 你家附近有公园吗？ 有，在超市对面。 公园在哪里？ | nǐ jiā fùjìn yǒu gōngyuán ma? yǒu, zài chāoshì duìmiàn. gōngyuán zài nǎlǐ? | Công viên đối diện siêu thị.
+E06-Q18 | Ans:B | 你什么时候去北京？ 明天上午。 他什么时候去北京？ | nǐ shénme shíhou qù Běijīng? míngtiān shàngwǔ. tā shénme shíhou qù Běijīng? | Anh ấy đi Bắc Kinh sáng mai.
+E06-Q19 | Ans:A | 你会说汉语吗？ 会，我在大学学习汉语。 她在哪里学习汉语？ | nǐ huì shuō Hànyǔ ma? huì, wǒ zài dàxué xué xí Hànyǔ. tā zài nǎlǐ xué xí Hànyǔ? | Cô ấy học tiếng Trung ở trường.
+E06-Q20 | Ans:A | 周末你打算去哪儿？ 我想去公园。 他周末想去哪儿？ | zhōumò nǐ dǎsuàn qù nǎr? wǒ xiǎng qù gōngyuán. tā zhōumò xiǎng qù nǎr? | Anh ấy muốn đến công viên.
+E06-Q21 | Ans:F | 他坐汽车去学校。 | tā zuò qì chē qù xuéxiào. | Anh ấy đi ô tô đến trường.
+E06-Q22 | Ans:T | 他想坐出租车。 | tā xiǎng zuò chūzūchē. | Anh ấy muốn đi taxi.
+E06-Q23 | Ans:F | 我妈妈喜欢看书。 | wǒ māma xǐhuan kàn shū. | Mẹ tôi thích đọc sách.
+E06-Q24 | Ans:T | 我们一起去电影院。 | wǒ men yìqǐ qù diànyǐngyuàn. | Chúng tôi cùng đến rạp chiếu phim.
+E06-Q25 | Ans:F | 我的朋友喜欢喝茶。 | wǒ de péngyou xǐhuan hē chá. | Bạn tôi thích uống trà.
+E06-Q26 | Ans:A | 这个饭店离我家很近。 | zhè gè fàndiàn lí wǒ jiā hěn jìn. | Nhà hàng này ở gần nhà tôi.
+E06-Q27 | Ans:B | 我们坐地铁去。 | wǒ men zuò dìtiě qù. | Chúng tôi đi tàu điện ngầm.
+E06-Q28 | Ans:A | 我在公园看见一只狗。 | wǒ zài gōngyuán kànjiàn yì zhī gǒu. | Tôi nhìn thấy một con chó ở công viên.
+E06-Q29 | Ans:B | 我现在要打电话。 | wǒ xiànzài yào dǎ diànhuà. | Bây giờ tôi phải gọi điện.
+E06-Q30 | Ans:C | 周末我们去公园玩。 | zhōumò wǒ men qù gōngyuán wán. | Cuối tuần chúng tôi đến công viên chơi.
+E06-Q31 | Ans:E | 你想坐什么车？ | nǐ xiǎng zuò shénme chē? | Nối câu hỏi với câu trả lời phù hợp.
+E06-Q32 | Ans:C | 你喜欢喝茶吗？ | nǐ xǐhuan hē chá ma? | Nối câu hỏi với câu trả lời phù hợp.
+E06-Q33 | Ans:B | 你在什么公司工作？ | nǐ zài shénme gōngsī gōngzuò? | Nối câu hỏi với câu trả lời phù hợp.
+E06-Q34 | Ans:D | 这里有中国饭店吗？ | zhè lǐ yǒu Zhōngguó fàndiàn ma? | Nối câu hỏi với câu trả lời phù hợp.
+E06-Q35 | Ans:A | 你怎么去上班？ | nǐ zěnme qù shàng bān? | Nối câu hỏi với câu trả lời phù hợp.
+E06-Q36 | Ans:C | 这家饭店的菜又好吃又______。 | zhè jiā fàndiàn de cài yòu hǎochī yòu _ _ _ _ _ _. | Món ở nhà hàng vừa ngon vừa rẻ.
+E06-Q37 | Ans:F | 我很______喝中国茶。 | wǒ hěn _ _ _ _ _ _ hē Zhōngguó chá. | Tôi rất thích uống trà Trung Quốc.
+E06-Q38 | Ans:E | 我们______走，五百米就到了。 | wǒ men _ _ _ _ _ _ zǒu, wǔ bǎi mǐ jiù dào le. | Chúng ta đi thẳng, 500m là tới.
+E06-Q39 | Ans:B | 晚上我们一起去看______。 | wǎnshang wǒ men yìqǐ qù kàn _ _ _ _ _ _. | Tối chúng tôi cùng đi xem phim.
+E06-Q40 | Ans:A | 因为我很忙，______我不去。 | yīnwèi wǒ hěn máng, _ _ _ _ _ _ wǒ bú qù. | Vì rất bận nên tôi không đi.
